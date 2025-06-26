@@ -680,3 +680,7 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [26Jun2025 18:25:57.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 fell from a high place
 [26Jun2025 18:25:57.944] [Server thread/INFO] [tombstone/]: The player SD53 has successfully been saved
 [26Jun2025 18:27:47.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 has made the advancement [Warped]
+[26Jun2025 18:34:54.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 has made the advancement [A Terrible Fortress]
+[26Jun2025 18:35:52.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 has made the advancement [Into Fire]
+[26Jun2025 18:38:23.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of SD53) moved wrongly! 0.5901017476869015
+[26Jun2025 18:38:23.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of SD53) moved wrongly! 0.8232977416758445
