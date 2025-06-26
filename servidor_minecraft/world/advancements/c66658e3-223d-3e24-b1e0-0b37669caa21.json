@@ -1008,5 +1008,11 @@
     },
     "done": true
   },
+  "ars_nouveau:ritual_gravity": {
+    "criteria": {
+      "gravity_effect": "2025-06-26 22:09:09 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
