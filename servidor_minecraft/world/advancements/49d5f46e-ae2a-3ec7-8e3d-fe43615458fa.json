@@ -253,6 +253,7 @@
       "minecraft:dripstone_caves": "2025-06-24 14:43:59 +0000",
       "minecraft:grove": "2025-06-24 21:06:01 +0000",
       "minecraft:forest": "2025-06-24 14:08:16 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-06-26 21:32:15 +0000",
       "minecraft:flower_forest": "2025-06-25 17:14:28 +0000",
       "minecraft:frozen_peaks": "2025-06-24 21:04:54 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-24 20:03:27 +0000",
@@ -721,6 +722,12 @@
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-06-26 20:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-26 21:26:10 +0000"
     },
     "done": true
   },
