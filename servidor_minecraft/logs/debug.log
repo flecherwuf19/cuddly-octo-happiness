@@ -10678,3 +10678,187 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [26Jun2025 15:44:32.569] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
 [26Jun2025 15:46:39.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 has made the advancement [Hunt and Gather]
 [26Jun2025 15:47:34.479] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/23470, l='ServerLevel[feliz]', x=-104.50, y=136.41, z=331.42] died: Undead Knight suffocated in a wall
+[26Jun2025 15:49:32.507] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[26Jun2025 15:49:32.523] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[26Jun2025 15:52:47.285] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-451, y=55, z=317} BlockPos{x=-450, y=55, z=316}
+[26Jun2025 15:54:32.491] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[26Jun2025 15:54:32.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[26Jun2025 15:57:51.039] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2050540815 to 12
+[26Jun2025 15:59:32.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[26Jun2025 15:59:32.509] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[26Jun2025 16:00:55.228] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/23559, l='ServerLevel[feliz]', x=-91.25, y=179.42, z=339.72] died: Honeyed Archer burned to death
+[26Jun2025 16:01:36.912] [Server thread/DEBUG] [pointblank/]: 96912 handling client fire request
+[26Jun2025 16:01:36.912] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 597351313 to 4
+[26Jun2025 16:01:36.912] [Server thread/DEBUG] [pointblank/]: 96912 - obtained hit result in 0ms
+[26Jun2025 16:01:36.912] [Server thread/DEBUG] [pointblank/]: 96912 obtained hit results
+[26Jun2025 16:01:36.912] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@41244684
+[26Jun2025 16:01:36.913] [Server thread/DEBUG] [pointblank/]: ServerPlayer['SD53'/579, l='ServerLevel[feliz]', x=-730.22, y=71.00, z=-15722.42] sends hit scan notification to ServerPlayer['SD53'/579, l='ServerLevel[feliz]', x=-730.22, y=71.00, z=-15722.42]
+[26Jun2025 16:01:37.701] [Server thread/DEBUG] [pointblank/]: 97701 handling client fire request
+[26Jun2025 16:01:37.701] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 597351313 to 3
+[26Jun2025 16:01:37.701] [Server thread/DEBUG] [pointblank/]: 97701 - obtained hit result in 0ms
+[26Jun2025 16:01:37.701] [Server thread/DEBUG] [pointblank/]: 97701 obtained hit results
+[26Jun2025 16:01:37.701] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@16d0c1e2
+[26Jun2025 16:01:37.702] [Server thread/DEBUG] [pointblank/]: ServerPlayer['SD53'/579, l='ServerLevel[feliz]', x=-730.22, y=71.00, z=-15722.42] sends hit scan notification to ServerPlayer['SD53'/579, l='ServerLevel[feliz]', x=-730.22, y=71.00, z=-15722.42]
+[26Jun2025 16:01:38.827] [Server thread/DEBUG] [pointblank/]: 98827 handling client fire request
+[26Jun2025 16:01:38.827] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 597351313 to 2
+[26Jun2025 16:01:38.828] [Server thread/DEBUG] [pointblank/]: 98828 - obtained hit result in 0ms
+[26Jun2025 16:01:38.828] [Server thread/DEBUG] [pointblank/]: 98828 obtained hit results
+[26Jun2025 16:01:38.828] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3d05d342
+[26Jun2025 16:01:38.828] [Server thread/DEBUG] [pointblank/]: ServerPlayer['SD53'/579, l='ServerLevel[feliz]', x=-730.22, y=71.00, z=-15722.42] sends hit scan notification to ServerPlayer['SD53'/579, l='ServerLevel[feliz]', x=-730.22, y=71.00, z=-15722.42]
+[26Jun2025 16:01:39.758] [Server thread/DEBUG] [pointblank/]: 99758 handling client fire request
+[26Jun2025 16:01:39.758] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 597351313 to 1
+[26Jun2025 16:01:39.759] [Server thread/DEBUG] [pointblank/]: 99759 - obtained hit result in 0ms
+[26Jun2025 16:01:39.759] [Server thread/DEBUG] [pointblank/]: 99759 obtained hit results
+[26Jun2025 16:01:39.759] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@63a99168
+[26Jun2025 16:01:39.759] [Server thread/DEBUG] [pointblank/]: ServerPlayer['SD53'/579, l='ServerLevel[feliz]', x=-730.22, y=71.00, z=-15722.42] sends hit scan notification to ServerPlayer['SD53'/579, l='ServerLevel[feliz]', x=-730.22, y=71.00, z=-15722.42]
+[26Jun2025 16:01:40.616] [Server thread/DEBUG] [pointblank/]: 616 handling client fire request
+[26Jun2025 16:01:40.616] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 597351313 to 0
+[26Jun2025 16:01:40.617] [Server thread/DEBUG] [pointblank/]: 617 - obtained hit result in 0ms
+[26Jun2025 16:01:40.617] [Server thread/DEBUG] [pointblank/]: 617 obtained hit results
+[26Jun2025 16:01:40.617] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2376193d
+[26Jun2025 16:01:40.618] [Server thread/DEBUG] [pointblank/]: ServerPlayer['SD53'/579, l='ServerLevel[feliz]', x=-730.22, y=71.00, z=-15722.42] sends hit scan notification to ServerPlayer['SD53'/579, l='ServerLevel[feliz]', x=-730.22, y=71.00, z=-15722.42]
+[26Jun2025 16:01:47.173] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 597351313 to 5
+[26Jun2025 16:02:18.300] [Server thread/DEBUG] [pointblank/]: 38300 handling client fire request
+[26Jun2025 16:02:18.300] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2050540815 to 11
+[26Jun2025 16:02:18.300] [Server thread/DEBUG] [pointblank/]: 38300 - obtained hit result in 0ms
+[26Jun2025 16:02:18.300] [Server thread/DEBUG] [pointblank/]: 38300 obtained hit results
+[26Jun2025 16:02:18.300] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@8215338
+[26Jun2025 16:02:18.303] [Server thread/DEBUG] [pointblank/]: ServerPlayer['SD53'/579, l='ServerLevel[feliz]', x=-756.65, y=72.00, z=-15671.99] sends hit scan notification to ServerPlayer['SD53'/579, l='ServerLevel[feliz]', x=-756.65, y=72.00, z=-15671.99]
+[26Jun2025 16:02:22.837] [Server thread/DEBUG] [pointblank/]: 42837 handling client fire request
+[26Jun2025 16:02:22.837] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2050540815 to 10
+[26Jun2025 16:02:22.837] [Server thread/DEBUG] [pointblank/]: 42837 - obtained hit result in 0ms
+[26Jun2025 16:02:22.837] [Server thread/DEBUG] [pointblank/]: 42837 obtained hit results
+[26Jun2025 16:02:22.837] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5081127b
+[26Jun2025 16:02:22.840] [Server thread/DEBUG] [pointblank/]: ServerPlayer['SD53'/579, l='ServerLevel[feliz]', x=-754.87, y=72.00, z=-15663.94] sends hit scan notification to ServerPlayer['SD53'/579, l='ServerLevel[feliz]', x=-754.87, y=72.00, z=-15663.94]
+[26Jun2025 16:02:24.553] [Server thread/DEBUG] [pointblank/]: 44553 handling client fire request
+[26Jun2025 16:02:24.553] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2050540815 to 9
+[26Jun2025 16:02:24.554] [Server thread/DEBUG] [pointblank/]: 44554 - obtained hit result in 0ms
+[26Jun2025 16:02:24.554] [Server thread/DEBUG] [pointblank/]: 44554 obtained hit results
+[26Jun2025 16:02:24.554] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5ce70aca
+[26Jun2025 16:02:24.557] [Server thread/DEBUG] [pointblank/]: ServerPlayer['SD53'/579, l='ServerLevel[feliz]', x=-755.86, y=71.00, z=-15661.46] sends hit scan notification to ServerPlayer['SD53'/579, l='ServerLevel[feliz]', x=-755.86, y=71.00, z=-15661.46]
+[26Jun2025 16:03:07.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Noah_03> [name:"AMATISTA", x:90, y:-35, z:361, dim:minecraft:overworld]
+[26Jun2025 16:04:32.600] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[26Jun2025 16:04:32.615] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[26Jun2025 16:06:50.160] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.single', args=[]}, tag: {GeckoLibID:4L,aim:0b,ammo:30,ammox:{},as:[{id:"pointblank:holographic",rmv:1b},{id:"pointblank:smg_suppressor",rmv:1b},{id:"pointblank:foregrip",rmv:1b}],fmid:[I;1212764091,-1102301601,-1169173617,-1550222542],lid:-6716882248384579509L,mid:-5969145325618706099L,sa:{scope:"//holographic"},seed:1285662886901231303L}
+[26Jun2025 16:07:11.958] [Server thread/WARN] [pointblank/]: Skipping loading of outdated or expired slot mappings.
+[26Jun2025 16:07:11.961] [Server thread/DEBUG] [pointblank/]: Created {vi: 625426397, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/foregrip, elements: {}} with stack: 1 foregrip, tag {id:"pointblank:foregrip",rmv:1b}, elements: {}
+[26Jun2025 16:07:11.961] [Server thread/DEBUG] [pointblank/]: Created {vi: 1119884170, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/holographic, elements: {}} with stack: 1 holographic, tag {id:"pointblank:holographic",rmv:1b}, elements: {}
+[26Jun2025 16:07:11.961] [Server thread/DEBUG] [pointblank/]: Created {vi: 1532701650, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/holographic, elements: {}} with stack: 1 holographic, tag {id:"pointblank:holographic",rmv:1b}, elements: {}
+[26Jun2025 16:07:11.961] [Server thread/DEBUG] [pointblank/]: Created {vi: 229843506, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/holographic, elements: {}} with stack: 1 holographic, tag {id:"pointblank:holographic",rmv:1b}, elements: {}
+[26Jun2025 16:07:11.962] [Server thread/DEBUG] [pointblank/]: Created {vi: 974546989, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/holographic, elements: {}} with stack: 1 holographic, tag {id:"pointblank:holographic",rmv:1b}, elements: {}
+[26Jun2025 16:07:11.962] [Server thread/DEBUG] [pointblank/]: Created {vi: 134952226, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/holographic, elements: {}} with stack: 1 holographic, tag {id:"pointblank:holographic",rmv:1b}, elements: {}
+[26Jun2025 16:07:11.962] [Server thread/DEBUG] [pointblank/]: Created {vi: 930647677, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/holographic, elements: {}} with stack: 1 holographic, tag {id:"pointblank:holographic",rmv:1b}, elements: {}
+[26Jun2025 16:07:11.962] [Server thread/DEBUG] [pointblank/]: Created {vi: 326276606, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/holographic, elements: {}} with stack: 1 holographic, tag {id:"pointblank:holographic",rmv:1b}, elements: {}
+[26Jun2025 16:07:11.962] [Server thread/DEBUG] [pointblank/]: Created {vi: 1750095124, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/holographic, elements: {}} with stack: 1 holographic, tag {id:"pointblank:holographic",rmv:1b}, elements: {}
+[26Jun2025 16:07:11.962] [Server thread/DEBUG] [pointblank/]: Created {vi: 622125623, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/holographic, elements: {}} with stack: 1 holographic, tag {id:"pointblank:holographic",rmv:1b}, elements: {}
+[26Jun2025 16:07:11.962] [Server thread/DEBUG] [pointblank/]: Created {vi: 363822082, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/holographic, elements: {}} with stack: 1 holographic, tag {id:"pointblank:holographic",rmv:1b}, elements: {}
+[26Jun2025 16:07:11.962] [Server thread/DEBUG] [pointblank/]: Created {vi: 1203857137, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/holographic, elements: {}} with stack: 1 holographic, tag {id:"pointblank:holographic",rmv:1b}, elements: {}
+[26Jun2025 16:07:11.962] [Server thread/DEBUG] [pointblank/]: Created {vi: 1035584590, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/holographic, elements: {}} with stack: 1 holographic, tag {id:"pointblank:holographic",rmv:1b}, elements: {}
+[26Jun2025 16:07:11.962] [Server thread/DEBUG] [pointblank/]: Created {vi: 95947891, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/holographic, elements: {}} with stack: 1 holographic, tag {id:"pointblank:holographic",rmv:1b}, elements: {}
+[26Jun2025 16:07:11.962] [Server thread/DEBUG] [pointblank/]: Created {vi: 1647719987, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/holographic, elements: {}} with stack: 1 holographic, tag {id:"pointblank:holographic",rmv:1b}, elements: {}
+[26Jun2025 16:07:11.962] [Server thread/DEBUG] [pointblank/]: Created {vi: 2124015571, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/holographic, elements: {}} with stack: 1 holographic, tag {id:"pointblank:holographic",rmv:1b}, elements: {}
+[26Jun2025 16:07:11.962] [Server thread/DEBUG] [pointblank/]: Created {vi: 1278040075, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/holographic, elements: {}} with stack: 1 holographic, tag {id:"pointblank:holographic",rmv:1b}, elements: {}
+[26Jun2025 16:07:11.962] [Server thread/DEBUG] [pointblank/]: Created {vi: 2067854003, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/holographic, elements: {}} with stack: 1 holographic, tag {id:"pointblank:holographic",rmv:1b}, elements: {}
+[26Jun2025 16:07:11.962] [Server thread/DEBUG] [pointblank/]: Created {vi: 154490364, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/foregrip, elements: {}} with stack: 1 foregrip, tag {id:"pointblank:foregrip",rmv:1b}, elements: {}
+[26Jun2025 16:07:11.963] [Server thread/DEBUG] [pointblank/]: Created {vi: 237744669, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/foregrip, elements: {}} with stack: 1 foregrip, tag {id:"pointblank:foregrip",rmv:1b}, elements: {}
+[26Jun2025 16:07:11.963] [Server thread/DEBUG] [pointblank/]: Created {vi: 2011065720, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/foregrip, elements: {}} with stack: 1 foregrip, tag {id:"pointblank:foregrip",rmv:1b}, elements: {}
+[26Jun2025 16:07:11.963] [Server thread/DEBUG] [pointblank/]: Created {vi: 1179270599, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/foregrip, elements: {}} with stack: 1 foregrip, tag {id:"pointblank:foregrip",rmv:1b}, elements: {}
+[26Jun2025 16:07:11.963] [Server thread/DEBUG] [pointblank/]: Created {vi: 750201558, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/foregrip, elements: {}} with stack: 1 foregrip, tag {id:"pointblank:foregrip",rmv:1b}, elements: {}
+[26Jun2025 16:07:11.963] [Server thread/DEBUG] [pointblank/]: Created {vi: 945071668, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/smg_suppressor, elements: {}} with stack: 1 smg_suppressor, tag {id:"pointblank:smg_suppressor",rmv:1b}, elements: {}
+[26Jun2025 16:07:11.963] [Server thread/DEBUG] [pointblank/]: Created {vi: 872927088, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/smg_suppressor, elements: {}} with stack: 1 smg_suppressor, tag {id:"pointblank:smg_suppressor",rmv:1b}, elements: {}
+[26Jun2025 16:07:11.963] [Server thread/DEBUG] [pointblank/]: Created {vi: 1050643446, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b, elements: {AttachmentCategory[rail]={vi: 38817671, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/air, elements: {}}, AttachmentCategory[underbarrel]={vi: 750201558, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/foregrip, elements: {}}, AttachmentCategory[scope]={vi: 2067854003, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/holographic, elements: {}}, AttachmentCategory[muzzle]={vi: 872927088, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/smg_suppressor, elements: {}}}} with stack: 1 mp5, tag {GeckoLibID:4L,aim:0b,ammo:30,ammox:{},as:[{id:"pointblank:holographic",rmv:1b},{id:"pointblank:smg_suppressor",rmv:1b},{id:"pointblank:foregrip",rmv:1b}],fmid:[I;1212764091,-1102301601,-1169173617,-1550222542],lid:-6716882248384579509L,mid:-5969145325618706099L,sa:{scope:"//holographic"},seed:1285662886901231303L}, elements: {AttachmentCategory[rail]={vi: 38817671, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/air, elements: {}}, AttachmentCategory[underbarrel]={vi: 750201558, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/foregrip, elements: {}}, AttachmentCategory[scope]={vi: 2067854003, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/holographic, elements: {}}, AttachmentCategory[muzzle]={vi: 872927088, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/smg_suppressor, elements: {}}}
+[26Jun2025 16:07:11.964] [Server thread/DEBUG] [pointblank/]: Created container 0
+[26Jun2025 16:07:11.965] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #0 id: 1390389440, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.965] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #0 id: 1390389440, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.965] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #0 id: 1390389440, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.965] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #0 id: 1390389440, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.965] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #0 id: 1390389440, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.965] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #0 id: 1390389440, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.965] [Server thread/DEBUG] [pointblank/]: Added attachment slot 7 to container {Container #0 id: 1390389440, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.965] [Server thread/DEBUG] [pointblank/]: Added attachment slot 8 to container {Container #0 id: 1390389440, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.965] [Server thread/DEBUG] [pointblank/]: Added attachment slot 9 to container {Container #0 id: 1390389440, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.965] [Server thread/DEBUG] [pointblank/]: Added attachment slot 10 to container {Container #0 id: 1390389440, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.965] [Server thread/DEBUG] [pointblank/]: Added attachment slot 11 to container {Container #0 id: 1390389440, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.965] [Server thread/DEBUG] [pointblank/]: Created container 1
+[26Jun2025 16:07:11.965] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #1 id: 608103437, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.965] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #1 id: 608103437, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.965] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #1 id: 608103437, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.965] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #1 id: 608103437, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.965] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #1 id: 608103437, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.965] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #1 id: 608103437, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.965] [Server thread/DEBUG] [pointblank/]: Created container 2
+[26Jun2025 16:07:11.965] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #2 id: 365290915, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.965] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #2 id: 365290915, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.965] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #2 id: 365290915, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.965] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #2 id: 365290915, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.966] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #2 id: 365290915, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.966] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #2 id: 365290915, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.966] [Server thread/DEBUG] [pointblank/]: Created container 3
+[26Jun2025 16:07:11.966] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #3 id: 996036458, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.966] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #3 id: 996036458, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.966] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #3 id: 996036458, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.966] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #3 id: 996036458, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.966] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #3 id: 996036458, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.966] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #3 id: 996036458, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.966] [Server thread/DEBUG] [pointblank/]: Created container 4
+[26Jun2025 16:07:11.966] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #4 id: 350775657, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.966] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #4 id: 350775657, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.966] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #4 id: 350775657, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.966] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #4 id: 350775657, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.967] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #4 id: 350775657, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.967] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #4 id: 350775657, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.967] [Server thread/DEBUG] [pointblank/]: Created container 5
+[26Jun2025 16:07:11.967] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #5 id: 1197842813, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.968] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #5 id: 1197842813, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.968] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #5 id: 1197842813, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.968] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #5 id: 1197842813, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.968] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #5 id: 1197842813, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.968] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #5 id: 1197842813, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.968] [Server thread/DEBUG] [pointblank/]: Created container 6
+[26Jun2025 16:07:11.968] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #6 id: 2100804815, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.968] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #6 id: 2100804815, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.968] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #6 id: 2100804815, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.968] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #6 id: 2100804815, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.968] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #6 id: 2100804815, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.968] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #6 id: 2100804815, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.969] [Server thread/DEBUG] [pointblank/]: Created container 7
+[26Jun2025 16:07:11.969] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #7 id: 878418204, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.969] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #7 id: 878418204, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.969] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #7 id: 878418204, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.969] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #7 id: 878418204, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.969] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #7 id: 878418204, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.969] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #7 id: 878418204, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.969] [Server thread/DEBUG] [pointblank/]: Created container 8
+[26Jun2025 16:07:11.969] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #8 id: 1664028127, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.969] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #8 id: 1664028127, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.969] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #8 id: 1664028127, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.969] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #8 id: 1664028127, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.969] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #8 id: 1664028127, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.969] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #8 id: 1664028127, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.969] [Server thread/DEBUG] [pointblank/]: Created container 9
+[26Jun2025 16:07:11.969] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #9 id: 153822862, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.969] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #9 id: 153822862, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.969] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #9 id: 153822862, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.969] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #9 id: 153822862, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.969] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #9 id: 153822862, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.969] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #9 id: 153822862, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.969] [Server thread/DEBUG] [pointblank/]: Updating attachment slots for inventory {vi: 1050643446, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b, elements: {AttachmentCategory[rail]={vi: 38817671, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/air, elements: {}}, AttachmentCategory[underbarrel]={vi: 750201558, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/foregrip, elements: {}}, AttachmentCategory[scope]={vi: 2067854003, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/holographic, elements: {}}, AttachmentCategory[muzzle]={vi: 872927088, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/smg_suppressor, elements: {}}}} for container 0
+[26Jun2025 16:07:11.969] [Server thread/DEBUG] [pointblank/]: Creating a slot mapping for key ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b in inventory {vi: 1050643446, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b, elements: {AttachmentCategory[rail]={vi: 38817671, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/air, elements: {}}, AttachmentCategory[underbarrel]={vi: 750201558, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/foregrip, elements: {}}, AttachmentCategory[scope]={vi: 2067854003, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/holographic, elements: {}}, AttachmentCategory[muzzle]={vi: 872927088, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/smg_suppressor, elements: {}}}}
+[26Jun2025 16:07:11.970] [Server thread/DEBUG] [pointblank/]: Created a slot mapping for key ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b in inventory {vi: 1050643446, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b, elements: {AttachmentCategory[rail]={vi: 38817671, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/air, elements: {}}, AttachmentCategory[underbarrel]={vi: 750201558, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/foregrip, elements: {}}, AttachmentCategory[scope]={vi: 2067854003, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/holographic, elements: {}}, AttachmentCategory[muzzle]={vi: 872927088, path: ad2955f3-c5d0-494d-a2c8-d72ec2e8f84b/smg_suppressor, elements: {}}}}. Here it is: {2=AttachmentCategory[underbarrel], 3=AttachmentCategory[scope], 4=AttachmentCategory[muzzle]}
+[26Jun2025 16:07:11.970] [Server thread/DEBUG] [pointblank/]: Setting item 0 in container {Container #0 id: 1390389440, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 1 mp5 with tag {GeckoLibID:4L,aim:0b,ammo:30,ammox:{},as:[{id:"pointblank:holographic",rmv:1b},{id:"pointblank:smg_suppressor",rmv:1b},{id:"pointblank:foregrip",rmv:1b}],fmid:[I;1212764091,-1102301601,-1169173617,-1550222542],lid:-6716882248384579509L,mid:-5969145325618706099L,sa:{scope:"//holographic"},seed:1285662886901231303L}
+[26Jun2025 16:07:11.970] [Server thread/DEBUG] [pointblank/]: Setting item 1 in container {Container #0 id: 1390389440, items: [1 mp5, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 0 air with tag null
+[26Jun2025 16:07:11.970] [Server thread/DEBUG] [pointblank/]: Updated slot #1 in container {Container #0 id: 1390389440, items: [1 mp5, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } with empty item 0 air
+[26Jun2025 16:07:11.971] [Server thread/DEBUG] [pointblank/]: Changing status for slot 1 in container {Container #0 id: 1390389440, items: [1 mp5, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to true,
+[26Jun2025 16:07:11.971] [Server thread/DEBUG] [pointblank/]: Setting item 2 in container {Container #0 id: 1390389440, items: [1 mp5, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 1 foregrip with tag {id:"pointblank:foregrip",rmv:1b}
+[26Jun2025 16:07:11.971] [Server thread/DEBUG] [pointblank/]: Updated slot #2 in container {Container #0 id: 1390389440, items: [1 mp5, 0 air, 1 foregrip, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } with item 1 foregrip
+[26Jun2025 16:07:11.971] [Server thread/DEBUG] [pointblank/]: Changing status for slot 2 in container {Container #0 id: 1390389440, items: [1 mp5, 0 air, 1 foregrip, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to true,
+[26Jun2025 16:07:11.971] [Server thread/DEBUG] [pointblank/]: Setting item 3 in container {Container #0 id: 1390389440, items: [1 mp5, 0 air, 1 foregrip, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 1 holographic with tag {id:"pointblank:holographic",rmv:1b}
+[26Jun2025 16:07:11.971] [Server thread/DEBUG] [pointblank/]: Updated slot #3 in container {Container #0 id: 1390389440, items: [1 mp5, 0 air, 1 foregrip, 1 holographic, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } with item 1 holographic
+[26Jun2025 16:07:11.971] [Server thread/DEBUG] [pointblank/]: Changing status for slot 3 in container {Container #0 id: 1390389440, items: [1 mp5, 0 air, 1 foregrip, 1 holographic, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to true,
+[26Jun2025 16:07:11.971] [Server thread/DEBUG] [pointblank/]: Setting item 4 in container {Container #0 id: 1390389440, items: [1 mp5, 0 air, 1 foregrip, 1 holographic, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 1 smg_suppressor with tag {id:"pointblank:smg_suppressor",rmv:1b}
+[26Jun2025 16:07:11.971] [Server thread/DEBUG] [pointblank/]: Updated slot #4 in container {Container #0 id: 1390389440, items: [1 mp5, 0 air, 1 foregrip, 1 holographic, 1 smg_suppressor, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } with item 1 smg_suppressor
+[26Jun2025 16:07:11.971] [Server thread/DEBUG] [pointblank/]: Changing status for slot 4 in container {Container #0 id: 1390389440, items: [1 mp5, 0 air, 1 foregrip, 1 holographic, 1 smg_suppressor, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to true,
+[26Jun2025 16:07:11.971] [Server thread/DEBUG] [pointblank/]: Container active attachment count: 4 in container {Container #0 id: 1390389440, items: [1 mp5, 0 air, 1 foregrip, 1 holographic, 1 smg_suppressor, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:07:11.971] [Server thread/DEBUG] [pointblank/]: Updated attachment slots for container {Container #0 id: 1390389440, items: [1 mp5, 0 air, 1 foregrip, 1 holographic, 1 smg_suppressor, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[26Jun2025 16:08:15.940] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-498, y=-8, z=844}
+[26Jun2025 16:08:15.945] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-496, y=-8, z=847}

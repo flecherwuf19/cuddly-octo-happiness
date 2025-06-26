@@ -616,3 +616,9 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [26Jun2025 15:43:48.730] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
 [26Jun2025 15:46:39.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 has made the advancement [Hunt and Gather]
 [26Jun2025 15:47:34.479] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/23470, l='ServerLevel[feliz]', x=-104.50, y=136.41, z=331.42] died: Undead Knight suffocated in a wall
+[26Jun2025 15:52:47.285] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-451, y=55, z=317} BlockPos{x=-450, y=55, z=316}
+[26Jun2025 16:00:55.228] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/23559, l='ServerLevel[feliz]', x=-91.25, y=179.42, z=339.72] died: Honeyed Archer burned to death
+[26Jun2025 16:03:07.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Noah_03> [name:"AMATISTA", x:90, y:-35, z:361, dim:minecraft:overworld]
+[26Jun2025 16:07:11.958] [Server thread/WARN] [pointblank/]: Skipping loading of outdated or expired slot mappings.
+[26Jun2025 16:08:15.940] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-498, y=-8, z=844}
+[26Jun2025 16:08:15.945] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-496, y=-8, z=847}
