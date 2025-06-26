@@ -643,15 +643,6 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:crimson_forest": "2025-06-26 16:44:00 +0000",
-      "minecraft:nether_wastes": "2025-06-26 16:37:18 +0000",
-      "minecraft:soul_sand_valley": "2025-06-26 17:09:22 +0000",
-      "minecraft:warped_forest": "2025-06-26 17:06:00 +0000"
-    },
-    "done": false
-  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-06-26 16:37:16 +0000"
@@ -661,6 +652,39 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-06-26 16:37:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-06-26 16:44:00 +0000",
+      "minecraft:nether_wastes": "2025-06-26 16:37:18 +0000",
+      "minecraft:soul_sand_valley": "2025-06-26 17:09:22 +0000",
+      "minecraft:warped_forest": "2025-06-26 17:06:00 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-06-26 19:48:31 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-06-26 19:38:55 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2025-06-26 19:45:55 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2025-06-26 19:48:31 +0000"
     },
     "done": true
   },

@@ -700,3 +700,13 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [26Jun2025 19:18:39.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 joined the game
 [26Jun2025 19:18:39.216] [Server thread/INFO] [Jade/]: Syncing config to SD53 (737092d5-37cf-309c-ac64-c72d4a071ae7)
 [26Jun2025 19:20:31.069] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/131519, l='ServerLevel[feliz]', x=-10.60, y=99.41, z=16.00] died: Undead Knight suffocated in a wall
+[26Jun2025 19:31:45.781] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Duke Tone the Mighty'/138151, l='ServerLevel[feliz]', x=-99.48, y=147.00, z=271.97] died: Duke Tone the Mighty was slain by SD53
+[26Jun2025 19:34:32.393] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[26Jun2025 19:34:32.396] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[26Jun2025 19:34:32.396] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ivandraws[/127.125.28.50:55457] logged in with entity id 140149 at (-465.2566813368173, 102.0, 501.85814430491916)
+[26Jun2025 19:34:32.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws joined the game
+[26Jun2025 19:34:32.460] [Server thread/INFO] [Jade/]: Syncing config to ivandraws (49d5f46e-ae2a-3ec7-8e3d-fe43615458fa)
+[26Jun2025 19:38:55.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws has made the advancement [Warped]
+[26Jun2025 19:45:55.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws has reached the goal [Flawless Crystals]
+[26Jun2025 19:48:31.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws has made the advancement [The Basics]
+[26Jun2025 19:48:31.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws has made the advancement [Enchanter]
