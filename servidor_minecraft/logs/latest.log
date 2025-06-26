@@ -692,3 +692,11 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [26Jun2025 18:47:04.092] [Server thread/WARN] [pointblank/]: Skipping loading of outdated or expired slot mappings.
 [26Jun2025 19:08:35.586] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SD53 lost connection: Disconnected
 [26Jun2025 19:08:35.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 left the game
+[26Jun2025 19:13:12.178] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noah_03 lost connection: Disconnected
+[26Jun2025 19:13:12.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noah_03 left the game
+[26Jun2025 19:18:39.182] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[26Jun2025 19:18:39.185] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[26Jun2025 19:18:39.185] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SD53[/127.174.106.225:50499] logged in with entity id 132478 at (2.2321187093485926, 101.0, 325.08002410176374)
+[26Jun2025 19:18:39.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 joined the game
+[26Jun2025 19:18:39.216] [Server thread/INFO] [Jade/]: Syncing config to SD53 (737092d5-37cf-309c-ac64-c72d4a071ae7)
+[26Jun2025 19:20:31.069] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/131519, l='ServerLevel[feliz]', x=-10.60, y=99.41, z=16.00] died: Undead Knight suffocated in a wall
