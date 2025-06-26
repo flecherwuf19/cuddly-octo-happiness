@@ -690,3 +690,5 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [26Jun2025 18:45:13.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noah_03 joined the game
 [26Jun2025 18:45:13.934] [Server thread/INFO] [Jade/]: Syncing config to Noah_03 (3fbf4115-ab8b-3213-9e4c-03d39e1335de)
 [26Jun2025 18:47:04.092] [Server thread/WARN] [pointblank/]: Skipping loading of outdated or expired slot mappings.
+[26Jun2025 19:08:35.586] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SD53 lost connection: Disconnected
+[26Jun2025 19:08:35.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 left the game
