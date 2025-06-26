@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "3fbf4115ab8b32139e4c03d39e1335de"
+	name: "Noah_03#3fbf4115"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

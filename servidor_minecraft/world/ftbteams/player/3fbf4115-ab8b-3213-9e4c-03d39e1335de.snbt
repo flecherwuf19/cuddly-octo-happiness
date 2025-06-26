@@ -1,0 +1,17 @@
+{
+	id: "3fbf4115-ab8b-3213-9e4c-03d39e1335de"
+	type: "player"
+	player_name: "Noah_03"
+	ranks: {
+		3fbf4115-ab8b-3213-9e4c-03d39e1335de: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Noah_03"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFE1"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
