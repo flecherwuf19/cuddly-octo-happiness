@@ -15727,3 +15727,12 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [26Jun2025 20:13:32.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 tried to swim in lava to escape Zombified Piglin
 [26Jun2025 20:13:32.355] [Server thread/DEBUG] [tombstone/]: A new grave of the player SD53 was created at position [x:-1248, y:44, z:-1013, dim:minecraft:the_nether]
 [26Jun2025 20:13:32.359] [Server thread/INFO] [tombstone/]: The player SD53 has successfully been saved
+[26Jun2025 20:14:32.475] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[26Jun2025 20:14:32.488] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[26Jun2025 20:14:54.142] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 978027189 to 12
+[26Jun2025 20:19:21.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws tried to swim in lava
+[26Jun2025 20:19:21.894] [Server thread/DEBUG] [tombstone/]: A new grave of the player ivandraws was created at position [x:-459, y:-54, z:395, dim:minecraft:overworld]
+[26Jun2025 20:19:21.896] [Server thread/INFO] [tombstone/]: The player ivandraws has successfully been saved
+[26Jun2025 20:19:32.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[26Jun2025 20:19:32.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[26Jun2025 20:20:10.633] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/175593, l='ServerLevel[feliz]', x=-414.12, y=143.38, z=484.35] died: Honeyed Archer burned to death
