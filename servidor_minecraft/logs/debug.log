@@ -10862,3 +10862,20 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [26Jun2025 16:07:11.971] [Server thread/DEBUG] [pointblank/]: Updated attachment slots for container {Container #0 id: 1390389440, items: [1 mp5, 0 air, 1 foregrip, 1 holographic, 1 smg_suppressor, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
 [26Jun2025 16:08:15.940] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-498, y=-8, z=844}
 [26Jun2025 16:08:15.945] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-496, y=-8, z=847}
+[26Jun2025 16:09:32.506] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[26Jun2025 16:09:32.524] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[26Jun2025 16:13:48.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Axelhg_18) moved too quickly! 7.704659118179052,-0.911926186920553,-7.90254059599215
+[26Jun2025 16:13:48.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Axelhg_18) moved too quickly! 8.43820647523603,-1.033559865790096,-8.726984564526902
+[26Jun2025 16:13:48.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Axelhg_18) moved too quickly! 9.16655538509599,-1.1578464731140485,-9.555934423999247
+[26Jun2025 16:14:07.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noah_03 has made the advancement [Stay Out of my Peripheral!]
+[26Jun2025 16:14:32.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[26Jun2025 16:14:32.515] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[26Jun2025 16:14:37.987] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-476, y=107, z=501} BlockPos{x=-475, y=106, z=502}
+[26Jun2025 16:14:38.489] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-475, y=107, z=499} BlockPos{x=-476, y=106, z=500}
+[26Jun2025 16:14:38.994] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-474, y=107, z=499} BlockPos{x=-475, y=106, z=498}
+[26Jun2025 16:14:39.441] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-475, y=107, z=496} BlockPos{x=-474, y=106, z=497}
+[26Jun2025 16:14:40.537] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-479, y=107, z=499} BlockPos{x=-480, y=106, z=498}
+[26Jun2025 16:14:40.587] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-479, y=107, z=499} BlockPos{x=-480, y=106, z=498}
+[26Jun2025 16:15:09.185] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2050540815 to 12
+[26Jun2025 16:18:30.239] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ivandraws lost connection: Disconnected
+[26Jun2025 16:18:30.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws left the game
