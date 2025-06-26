@@ -649,3 +649,6 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [26Jun2025 16:38:18.447] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Lobwen the Bishop'/56059, l='ServerLevel[feliz]', x=-504.66, y=73.00, z=328.44] died: Lobwen the Bishop was slain by SD53
 [26Jun2025 16:44:32.602] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/52386, l='ServerLevel[feliz]', x=124.02, y=95.85, z=407.65] died: Honeyed Archer suffocated in a wall
 [26Jun2025 16:54:34.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Axelhg_18) moved wrongly! 0.5
+[26Jun2025 17:11:10.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SD53 moved wrongly!
+[26Jun2025 17:18:22.589] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noah_03 lost connection: Disconnected
+[26Jun2025 17:18:22.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noah_03 left the game

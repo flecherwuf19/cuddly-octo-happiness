@@ -743,5 +743,11 @@
     },
     "done": true
   },
+  "occultism:occultism/summon_foliot_crusher": {
+    "criteria": {
+      "summon_foliot_crusher": "2025-06-26 17:15:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

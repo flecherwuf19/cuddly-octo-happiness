@@ -11654,3 +11654,10 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [26Jun2025 17:08:38.854] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 597351313 to 5
 [26Jun2025 17:09:32.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
 [26Jun2025 17:09:32.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[26Jun2025 17:11:10.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SD53 moved wrongly!
+[26Jun2025 17:14:32.514] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[26Jun2025 17:14:32.526] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[26Jun2025 17:18:22.589] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noah_03 lost connection: Disconnected
+[26Jun2025 17:18:22.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noah_03 left the game
+[26Jun2025 17:19:32.471] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[26Jun2025 17:19:32.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
