@@ -325,6 +325,7 @@
       "minecraft:slime": "2025-06-25 12:09:46 +0000",
       "minecraft:evoker": "2025-06-25 22:33:31 +0000",
       "quark:forgotten": "2025-06-25 16:55:07 +0000",
+      "minecraft:witch": "2025-06-26 16:38:18 +0000",
       "minecraft:husk": "2025-06-26 12:55:09 +0000",
       "minecraft:cave_spider": "2025-06-24 20:35:59 +0000",
       "minecraft:silverfish": "2025-06-24 16:29:37 +0000",
@@ -921,6 +922,12 @@
   "iceandfire:iceandfire/kill_siren": {
     "criteria": {
       "killed_fire_dragon": "2025-06-26 14:17:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-06-26 16:32:07 +0000"
     },
     "done": true
   },

@@ -393,6 +393,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sweet_berries": "2025-06-24 21:13:51 +0000",
+      "sugar_cane": "2025-06-26 16:44:15 +0000",
       "wheat": "2025-06-24 15:11:27 +0000"
     },
     "done": false

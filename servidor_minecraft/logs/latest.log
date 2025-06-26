@@ -639,3 +639,12 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [26Jun2025 16:20:36.550] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ivandraws[/127.125.28.50:49961] logged in with entity id 47183 at (-466.6864781955565, 102.0, 504.65635391058373)
 [26Jun2025 16:20:36.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws joined the game
 [26Jun2025 16:20:36.593] [Server thread/INFO] [Jade/]: Syncing config to ivandraws (49d5f46e-ae2a-3ec7-8e3d-fe43615458fa)
+[26Jun2025 16:32:07.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 has reached the goal [You Need a Mint]
+[26Jun2025 16:32:15.491] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-89, y=37, z=236} BlockPos{x=-89, y=38, z=236}
+[26Jun2025 16:37:16.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws has made the advancement [We Need to Go Deeper]
+[26Jun2025 16:37:18.624] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-54, y=105, z=229} BlockPos{x=-54, y=106, z=229}
+[26Jun2025 16:37:45.042] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[26Jun2025 16:37:45.042] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[26Jun2025 16:37:45.042] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[26Jun2025 16:38:18.447] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Lobwen the Bishop'/56059, l='ServerLevel[feliz]', x=-504.66, y=73.00, z=328.44] died: Lobwen the Bishop was slain by SD53
+[26Jun2025 16:44:32.602] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/52386, l='ServerLevel[feliz]', x=124.02, y=95.85, z=407.65] died: Honeyed Archer suffocated in a wall
