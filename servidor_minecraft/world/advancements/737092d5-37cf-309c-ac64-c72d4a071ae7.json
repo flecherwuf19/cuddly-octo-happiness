@@ -971,27 +971,27 @@
     },
     "done": true
   },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2025-06-26 20:02:15 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_ham": {
-    "criteria": {
-      "smoked_ham": "2025-06-26 20:07:44 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/straddler": {
     "criteria": {
       "killed_by": "2025-06-26 20:00:47 +0000"
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-06-26 20:02:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_hoglin_stable": "2025-06-26 20:05:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "smoked_ham": "2025-06-26 20:07:44 +0000"
     },
     "done": true
   },
