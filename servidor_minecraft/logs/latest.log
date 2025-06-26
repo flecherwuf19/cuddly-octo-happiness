@@ -710,3 +710,39 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [26Jun2025 19:45:55.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws has reached the goal [Flawless Crystals]
 [26Jun2025 19:48:31.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws has made the advancement [The Basics]
 [26Jun2025 19:48:31.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws has made the advancement [Enchanter]
+[26Jun2025 19:54:19.558] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/154615, l='ServerLevel[feliz]', x=-564.41, y=68.41, z=355.29] died: Undead Knight was shot by Axelhg_18 using [Vance's Windswept Longbow of the First Archer]
+[26Jun2025 19:54:45.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 has completed the challenge [Hot Tourist Destinations]
+[26Jun2025 19:55:18.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of SD53) moved wrongly! 0.2985417322110493
+[26Jun2025 19:55:28.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of SD53) moved wrongly! 0.3953350158478557
+[26Jun2025 19:56:45.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of SD53) moved too quickly! -9.915702616560793,0.043927511517310336,-3.9861131125074394
+[26Jun2025 19:56:45.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of SD53) moved too quickly! -11.22341652413877,0.03520006705533518,-4.424437860917664
+[26Jun2025 19:56:45.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of SD53) moved too quickly! -12.543223440106317,0.024271613386133595,-4.852094064581948
+[26Jun2025 19:56:45.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Axelhg_18) moved too quickly! -9.390867657138983,0.21989957121854786,5.638977860991645
+[26Jun2025 19:56:45.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of SD53) moved too quickly! -13.873268305382908,0.010743591633357141,-5.27341552655183
+[26Jun2025 19:56:45.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Axelhg_18) moved too quickly! -10.331534352536096,0.25858055108538736,6.201415329280167
+[26Jun2025 19:56:45.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of SD53) moved too quickly! -15.211450054362672,-2.244966037281415E-4,-5.69389066138892
+[26Jun2025 19:56:45.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Axelhg_18) moved too quickly! -11.272472127193964,0.29814461127264735,6.763679656614158
+[26Jun2025 19:56:45.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of SD53) moved too quickly! 10.455880281060217,0.06680015066729084,3.588005936978732
+[26Jun2025 19:56:45.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of SD53) moved too quickly! 10.455880281060217,0.06680015066729084,3.588005936978732
+[26Jun2025 19:56:45.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of SD53) moved too quickly! 10.455880281060217,0.06680015066729084,3.588005936978732
+[26Jun2025 19:56:45.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of SD53) moved too quickly! 10.455880281060217,0.06680015066729084,3.588005936978732
+[26Jun2025 19:56:45.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of SD53) moved too quickly! 10.455880281060217,0.06680015066729084,3.588005936978732
+[26Jun2025 19:56:45.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of SD53) moved too quickly! 10.481286208427719,0.06921151087669841,3.571166337947446
+[26Jun2025 19:56:45.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of SD53) moved too quickly! 11.570959376259793,0.06042213663652518,4.255165195027374
+[26Jun2025 19:59:47.860] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-162, y=22, z=783}
+[26Jun2025 20:00:47.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 has made the advancement [Straddle My Ol' Saddle]
+[26Jun2025 20:01:05.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws has made the advancement [Ice Bucket Challenge]
+[26Jun2025 20:02:15.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 has made the advancement [Those Were the Days]
+[26Jun2025 20:02:51.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 burned to death
+[26Jun2025 20:02:51.052] [Server thread/INFO] [tombstone/]: The player SD53 has successfully been saved
+[26Jun2025 20:04:34.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws has made the advancement [Close Quarters]
+[26Jun2025 20:04:56.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelhg_18 has made the advancement [What a Deal!]
+[26Jun2025 20:05:28.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 has made the advancement [War Pigs]
+[26Jun2025 20:07:06.011] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Aphidon the ... Something'/168619, l='ServerLevel[feliz]', x=-1289.58, y=33.00, z=-1058.10] died: Aphidon the ... Something was slain by SD53
+[26Jun2025 20:11:51.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws was impaled on a stalagmite whilst fighting Witch
+[26Jun2025 20:11:51.302] [Server thread/INFO] [tombstone/]: The player ivandraws has successfully been saved
+[26Jun2025 20:12:20.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws has made the advancement [The Most Useful Key]
+[26Jun2025 20:12:25.289] [Server thread/WARN] [pointblank/]: Skipping loading of outdated or expired slot mappings.
+[26Jun2025 20:12:59.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws has reached the goal [A Fast Comeback]
+[26Jun2025 20:13:32.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 tried to swim in lava to escape Zombified Piglin
+[26Jun2025 20:13:32.359] [Server thread/INFO] [tombstone/]: The player SD53 has successfully been saved
