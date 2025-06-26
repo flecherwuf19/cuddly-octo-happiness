@@ -373,6 +373,7 @@
       "cooked_beef": "2025-06-24 14:32:00 +0000",
       "baked_potato": "2025-06-25 12:03:55 +0000",
       "apple": "2025-06-24 16:07:32 +0000",
+      "potato": "2025-06-26 18:21:00 +0000",
       "bread": "2025-06-24 16:09:34 +0000",
       "golden_apple": "2025-06-24 20:36:58 +0000",
       "rotten_flesh": "2025-06-24 16:05:54 +0000",
@@ -932,6 +933,12 @@
   "minecraft:end/dragon_breath": {
     "criteria": {
       "dragon_breath": "2025-06-26 16:32:07 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-06-26 18:27:47 +0000"
     },
     "done": true
   },

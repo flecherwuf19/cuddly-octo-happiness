@@ -12348,3 +12348,16 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [26Jun2025 18:04:32.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
 [26Jun2025 18:09:32.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
 [26Jun2025 18:09:32.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[26Jun2025 18:14:32.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[26Jun2025 18:14:32.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[26Jun2025 18:19:32.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[26Jun2025 18:19:32.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[26Jun2025 18:24:32.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[26Jun2025 18:24:32.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[26Jun2025 18:25:57.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 fell from a high place
+[26Jun2025 18:25:57.921] [Server thread/DEBUG] [tombstone/]: A new grave of the player SD53 was created at position [x:-5, y:72, z:289, dim:minecraft:overworld]
+[26Jun2025 18:25:57.944] [Server thread/INFO] [tombstone/]: The player SD53 has successfully been saved
+[26Jun2025 18:27:41.020] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2075351207 to 30
+[26Jun2025 18:27:47.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 has made the advancement [Warped]
+[26Jun2025 18:29:32.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[26Jun2025 18:29:32.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz

@@ -677,3 +677,6 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [26Jun2025 17:58:04.246] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Mark'/101516, l='ServerLevel[feliz]', x=-43.24, y=-3.00, z=264.30] died: 1$s has perished from holy damage
 [26Jun2025 18:02:09.485] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-47, y=4, z=260} BlockPos{x=-47, y=3, z=260}
 [26Jun2025 18:02:09.537] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-47, y=2, z=260} BlockPos{x=-47, y=3, z=260}
+[26Jun2025 18:25:57.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 fell from a high place
+[26Jun2025 18:25:57.944] [Server thread/INFO] [tombstone/]: The player SD53 has successfully been saved
+[26Jun2025 18:27:47.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 has made the advancement [Warped]
