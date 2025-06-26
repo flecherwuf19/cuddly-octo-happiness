@@ -534,6 +534,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "kelp": "2025-06-26 17:53:44 +0000",
       "sugar_cane": "2025-06-25 15:08:22 +0000",
       "potato": "2025-06-24 17:35:15 +0000"
     },
