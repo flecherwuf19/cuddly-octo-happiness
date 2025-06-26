@@ -12342,3 +12342,9 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [26Jun2025 17:58:04.246] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Mark'/101516, l='ServerLevel[feliz]', x=-43.24, y=-3.00, z=264.30] died: 1$s has perished from holy damage
 [26Jun2025 17:59:32.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
 [26Jun2025 17:59:32.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[26Jun2025 18:02:09.485] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-47, y=4, z=260} BlockPos{x=-47, y=3, z=260}
+[26Jun2025 18:02:09.537] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-47, y=2, z=260} BlockPos{x=-47, y=3, z=260}
+[26Jun2025 18:04:32.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[26Jun2025 18:04:32.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[26Jun2025 18:09:32.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[26Jun2025 18:09:32.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
