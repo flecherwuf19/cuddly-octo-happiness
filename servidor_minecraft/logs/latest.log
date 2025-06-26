@@ -614,3 +614,8 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [26Jun2025 21:35:43.646] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=16, y=24, z=818}
 [26Jun2025 21:35:43.648] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=16, y=24, z=820}
 [26Jun2025 21:39:03.129] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-648, y=-7, z=1312} BlockPos{x=-649, y=-8, z=1312}
+[26Jun2025 21:46:07.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws has made the advancement [Cover Me with Diamonds]
+[26Jun2025 21:46:09.319] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Captain Hobbes'/41660, l='ServerLevel[feliz]', x=-401.30, y=-10.00, z=1301.30] died: 1$s has perished from holy damage
+[26Jun2025 21:52:25.442] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[26Jun2025 21:52:25.443] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[26Jun2025 21:52:25.444] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]

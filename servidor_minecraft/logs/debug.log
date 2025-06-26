@@ -10777,3 +10777,12 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [26Jun2025 21:38:22.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
 [26Jun2025 21:39:03.129] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-648, y=-7, z=1312} BlockPos{x=-649, y=-8, z=1312}
 [26Jun2025 21:41:46.863] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1730384839 to 5
+[26Jun2025 21:43:22.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[26Jun2025 21:43:22.913] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[26Jun2025 21:46:07.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws has made the advancement [Cover Me with Diamonds]
+[26Jun2025 21:46:09.319] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Captain Hobbes'/41660, l='ServerLevel[feliz]', x=-401.30, y=-10.00, z=1301.30] died: 1$s has perished from holy damage
+[26Jun2025 21:48:22.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[26Jun2025 21:48:22.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[26Jun2025 21:52:25.442] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[26Jun2025 21:52:25.443] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[26Jun2025 21:52:25.444] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
