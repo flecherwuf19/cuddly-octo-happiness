@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "49d5f46eae2a3ec78e3dfe43615458fa"
+	name: "ivandraws#49d5f46e"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

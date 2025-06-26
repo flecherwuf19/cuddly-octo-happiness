@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "737092d537cf309cac64c72d4a071ae7"
+	name: "SD53#737092d5"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

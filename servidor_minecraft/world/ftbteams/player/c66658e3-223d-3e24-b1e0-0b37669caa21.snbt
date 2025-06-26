@@ -1,0 +1,17 @@
+{
+	id: "c66658e3-223d-3e24-b1e0-0b37669caa21"
+	type: "player"
+	player_name: "Axelhg_18"
+	ranks: {
+		c66658e3-223d-3e24-b1e0-0b37669caa21: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Axelhg_18"
+		"ftbteams:description": ""
+		"ftbteams:color": "#B859FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

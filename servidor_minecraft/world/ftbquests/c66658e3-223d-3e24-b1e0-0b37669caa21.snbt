@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "c66658e3223d3e24b1e00b37669caa21"
+	name: "Axelhg_18#c66658e3"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

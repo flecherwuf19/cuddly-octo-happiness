@@ -1,0 +1,17 @@
+{
+	id: "6bd1ca32-263d-3f08-90b7-c48525bd13e7"
+	type: "player"
+	player_name: "Aleeejandro_nb"
+	ranks: {
+		6bd1ca32-263d-3f08-90b7-c48525bd13e7: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Aleeejandro_nb"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5968FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

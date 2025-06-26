@@ -1,0 +1,17 @@
+{
+	version: 1
+	uuid: "6bd1ca32263d3f0890b7c48525bd13e7"
+	name: "Aleeejandro_nb#6bd1ca32"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: {
+		6bd1ca32263d3f0890b7c48525bd13e7: {
+			can_edit: 1b
+			chapter_pinned: 1b
+		}
+	}
+}

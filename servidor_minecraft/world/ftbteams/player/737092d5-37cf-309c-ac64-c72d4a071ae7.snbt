@@ -1,0 +1,17 @@
+{
+	id: "737092d5-37cf-309c-ac64-c72d4a071ae7"
+	type: "player"
+	player_name: "SD53"
+	ranks: {
+		737092d5-37cf-309c-ac64-c72d4a071ae7: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "SD53"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF8F59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

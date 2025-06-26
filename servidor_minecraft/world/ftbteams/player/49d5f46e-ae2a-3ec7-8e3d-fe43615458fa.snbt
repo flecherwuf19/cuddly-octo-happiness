@@ -1,0 +1,17 @@
+{
+	id: "49d5f46e-ae2a-3ec7-8e3d-fe43615458fa"
+	type: "player"
+	player_name: "ivandraws"
+	ranks: {
+		49d5f46e-ae2a-3ec7-8e3d-fe43615458fa: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ivandraws"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF8A59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
