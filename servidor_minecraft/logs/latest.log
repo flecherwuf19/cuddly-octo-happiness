@@ -652,3 +652,17 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [26Jun2025 17:11:10.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SD53 moved wrongly!
 [26Jun2025 17:18:22.589] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noah_03 lost connection: Disconnected
 [26Jun2025 17:18:22.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noah_03 left the game
+[26Jun2025 17:26:19.745] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1091, y=20, z=808}
+[26Jun2025 17:26:21.843] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1001, y=26, z=970}
+[26Jun2025 17:26:22.438] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-718, y=-40, z=959}
+[26Jun2025 17:26:22.443] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-718, y=-40, z=960}
+[26Jun2025 17:26:26.626] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1102, y=-50, z=988}
+[26Jun2025 17:26:27.140] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-920, y=-29, z=1024}
+[26Jun2025 17:26:27.956] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1044, y=-42, z=1023}
+[26Jun2025 17:26:27.956] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1043, y=-42, z=1023}
+[26Jun2025 17:26:29.028] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1117, y=-1, z=666}
+[26Jun2025 17:29:23.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelhg_18 has made the advancement [Would you Like to Know More?]
+[26Jun2025 17:29:26.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelhg_18 has made the advancement [Book of Monsters]
+[26Jun2025 17:32:48.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Axelhg_18) moved wrongly! 0.3557171329356379
+[26Jun2025 17:37:00.600] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ivandraws lost connection: Disconnected
+[26Jun2025 17:37:00.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws left the game
