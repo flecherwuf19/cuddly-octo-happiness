@@ -684,3 +684,9 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [26Jun2025 18:35:52.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 has made the advancement [Into Fire]
 [26Jun2025 18:38:23.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of SD53) moved wrongly! 0.5901017476869015
 [26Jun2025 18:38:23.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of SD53) moved wrongly! 0.8232977416758445
+[26Jun2025 18:45:13.841] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[26Jun2025 18:45:13.844] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[26Jun2025 18:45:13.845] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Noah_03[/127.66.108.54:59703] logged in with entity id 119378 at (16.963142515467794, 103.0, 327.1581069982288)
+[26Jun2025 18:45:13.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noah_03 joined the game
+[26Jun2025 18:45:13.934] [Server thread/INFO] [Jade/]: Syncing config to Noah_03 (3fbf4115-ab8b-3213-9e4c-03d39e1335de)
+[26Jun2025 18:47:04.092] [Server thread/WARN] [pointblank/]: Skipping loading of outdated or expired slot mappings.
