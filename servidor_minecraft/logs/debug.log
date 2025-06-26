@@ -10786,3 +10786,29 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [26Jun2025 21:52:25.442] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [26Jun2025 21:52:25.443] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [26Jun2025 21:52:25.444] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[26Jun2025 21:53:19.123] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-78, y=101, z=81} BlockPos{x=-78, y=103, z=90}
+[26Jun2025 21:53:19.178] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-78, y=101, z=81} BlockPos{x=-78, y=102, z=89}
+[26Jun2025 21:53:22.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[26Jun2025 21:53:22.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[26Jun2025 21:54:58.772] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Piglin['Piglin'/49016, l='ServerLevel[feliz]', x=96.70, y=75.00, z=-146.96]
+[26Jun2025 21:55:07.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws has made the advancement [Nightmare Fuel]
+[26Jun2025 21:55:45.495] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/46238, l='ServerLevel[feliz]', x=-430.29, y=106.23, z=1259.30] died, message: 'Nitwit went up in flames'
+[26Jun2025 21:57:22.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws tried to swim in lava
+[26Jun2025 21:57:22.522] [Server thread/DEBUG] [tombstone/]: A new grave of the player ivandraws was created at position [x:-107, y:35, z:-30, dim:minecraft:the_nether]
+[26Jun2025 21:57:22.524] [Server thread/INFO] [tombstone/]: The player ivandraws has successfully been saved
+[26Jun2025 21:58:22.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[26Jun2025 21:58:22.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[26Jun2025 21:58:50.055] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/46234, l='ServerLevel[feliz]', x=-417.70, y=106.00, z=1267.34] died, message: 'Nitwit was incinerated by Fire Dragon'
+[26Jun2025 21:59:15.102] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/46278, l='ServerLevel[feliz]', x=-362.54, y=80.94, z=1246.63] died, message: 'Unemployed hit the ground too hard whilst trying to escape Fire Dragon'
+[26Jun2025 21:59:28.700] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/46235, l='ServerLevel[feliz]', x=-345.75, y=87.00, z=1231.72] died, message: 'Unemployed was incinerated by Fire Dragon'
+[26Jun2025 21:59:43.179] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=63, z=46} BlockPos{x=-28, y=64, z=50}
+[26Jun2025 21:59:43.233] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=63, z=46} BlockPos{x=-28, y=64, z=50}
+[26Jun2025 21:59:43.316] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=63, z=46} BlockPos{x=-28, y=64, z=50}
+[26Jun2025 21:59:43.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=63, z=46} BlockPos{x=-28, y=64, z=50}
+[26Jun2025 21:59:43.379] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=63, z=46} BlockPos{x=-28, y=64, z=50}
+[26Jun2025 21:59:43.429] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=63, z=46} BlockPos{x=-28, y=64, z=50}
+[26Jun2025 21:59:43.480] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=63, z=46} BlockPos{x=-28, y=64, z=50}
+[26Jun2025 21:59:43.530] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=63, z=46} BlockPos{x=-28, y=64, z=50}
+[26Jun2025 21:59:44.580] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=65, z=56} BlockPos{x=-28, y=64, z=58}
+[26Jun2025 21:59:44.629] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=65, z=56} BlockPos{x=-28, y=64, z=58}
+[26Jun2025 21:59:44.680] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=65, z=56} BlockPos{x=-28, y=64, z=58}
