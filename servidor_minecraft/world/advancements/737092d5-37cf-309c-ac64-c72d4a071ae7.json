@@ -319,7 +319,9 @@
     "criteria": {
       "minecraft:pillager": "2025-06-24 21:08:37 +0000",
       "minecraft:skeleton": "2025-06-24 15:02:21 +0000",
+      "minecraft:hoglin": "2025-06-26 17:07:35 +0000",
       "minecraft:vindicator": "2025-06-25 22:33:54 +0000",
+      "minecraft:magma_cube": "2025-06-26 17:08:23 +0000",
       "minecraft:spider": "2025-06-24 16:22:45 +0000",
       "minecraft:creeper": "2025-06-24 16:17:55 +0000",
       "minecraft:slime": "2025-06-25 12:09:46 +0000",
@@ -333,6 +335,7 @@
       "minecraft:enderman": "2025-06-25 15:41:51 +0000",
       "minecraft:vex": "2025-06-25 22:34:58 +0000",
       "minecraft:zombie": "2025-06-24 14:09:59 +0000",
+      "quark:foxhound": "2025-06-26 17:08:20 +0000",
       "minecraft:drowned": "2025-06-24 16:58:24 +0000",
       "minecraft:zombie_villager": "2025-06-25 14:59:04 +0000"
     },
@@ -837,6 +840,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-06-26 17:07:29 +0000",
       "minecraft:nether_wastes": "2025-06-25 18:03:34 +0000"
     },
     "done": false
