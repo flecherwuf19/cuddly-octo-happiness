@@ -816,3 +816,19 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [27Jun2025 20:12:30.631] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1140, y=57, z=-12252} BlockPos{x=-1140, y=58, z=-12251}
 [27Jun2025 20:12:30.677] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1139, y=58, z=-12251} BlockPos{x=-1140, y=58, z=-12251}
 [27Jun2025 20:12:30.721] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1139, y=59, z=-12251} BlockPos{x=-1140, y=58, z=-12251}
+[27Jun2025 20:13:22.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Axelhg_18) moved wrongly! 0.692341261788215
+[27Jun2025 20:13:22.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Axelhg_18) moved wrongly! 0.8980953685304485
+[27Jun2025 20:13:23.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Axelhg_18) moved wrongly! 0.8957599008858779
+[27Jun2025 20:19:51.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 has completed the challenge [Village Defender]
+[27Jun2025 20:20:18.042] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[27Jun2025 20:20:18.045] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[27Jun2025 20:20:18.048] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ivandraws[/127.125.28.50:36075] logged in with entity id 243331 at (-455.3386995329971, 95.0, 517.4593243008452)
+[27Jun2025 20:20:18.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws joined the game
+[27Jun2025 20:20:18.105] [Server thread/INFO] [Jade/]: Syncing config to ivandraws (49d5f46e-ae2a-3ec7-8e3d-fe43615458fa)
+[27Jun2025 20:20:19.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ivandraws lost connection: Disconnected
+[27Jun2025 20:20:19.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws left the game
+[27Jun2025 20:20:55.476] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[27Jun2025 20:20:55.479] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[27Jun2025 20:20:55.480] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ivandraws[/127.125.28.50:52907] logged in with entity id 243526 at (-455.3386995329971, 95.0, 517.4593243008452)
+[27Jun2025 20:20:55.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws joined the game
+[27Jun2025 20:20:55.534] [Server thread/INFO] [Jade/]: Syncing config to ivandraws (49d5f46e-ae2a-3ec7-8e3d-fe43615458fa)
