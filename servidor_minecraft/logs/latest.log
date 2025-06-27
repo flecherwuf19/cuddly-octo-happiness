@@ -600,3 +600,41 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [27Jun2025 15:39:03.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelhg_18 has made the advancement [The Parrots and the Bats]
 [27Jun2025 16:12:44.642] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=618}
 [27Jun2025 16:12:44.643] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=-57, z=618}
+[27Jun2025 16:29:48.750] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-56, z=187}
+[27Jun2025 16:29:48.751] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-56, z=189}
+[27Jun2025 16:29:48.751] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-48, y=-56, z=186}
+[27Jun2025 16:29:48.751] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-45, y=-56, z=187}
+[27Jun2025 16:29:48.751] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-46, y=-56, z=186}
+[27Jun2025 16:29:48.751] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-48, y=-56, z=190}
+[27Jun2025 16:29:48.751] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-46, y=-56, z=190}
+[27Jun2025 16:29:48.752] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-45, y=-56, z=189}
+[27Jun2025 16:29:50.537] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-51, z=186}
+[27Jun2025 16:29:50.543] [Worker-Main-31/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;176865803,-972338229,-2060744252,-623071664],type:"minecraft:entity",y_offset:0.36f}}]
+[27Jun2025 16:29:50.702] [Worker-Main-20/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;672061792,-366263352,-1752079043,-405291646],type:"minecraft:entity",y_offset:0.36f}}]
+[27Jun2025 16:33:49.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-453, y=67, z=334} BlockPos{x=-370, y=57, z=-66}
+[27Jun2025 16:33:49.409] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-453, y=67, z=334} BlockPos{x=-370, y=57, z=-65}
+[27Jun2025 16:36:58.802] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[27Jun2025 16:36:58.807] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[27Jun2025 16:36:58.807] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[27Jun2025 16:38:50.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelhg_18 has made the advancement [Those Were the Days]
+[27Jun2025 16:38:51.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Axelhg_18 moved wrongly!
+[27Jun2025 16:42:36.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelhg_18 has made the advancement [Hot Stuff]
+[27Jun2025 16:43:07.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelhg_18 has made the advancement [War Pigs]
+[27Jun2025 16:44:47.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelhg_18 has made the advancement [Who is Cutting Onions?]
+[27Jun2025 16:45:12.511] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-832, y=34, z=520} BlockPos{x=-847, y=65, z=548}
+[27Jun2025 16:45:31.015] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-842, y=67, z=548} BlockPos{x=-843, y=73, z=551}
+[27Jun2025 16:45:31.060] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-842, y=67, z=548} BlockPos{x=-843, y=73, z=551}
+[27Jun2025 16:45:31.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-842, y=67, z=548} BlockPos{x=-843, y=73, z=551}
+[27Jun2025 16:48:01.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelhg_18 has made the advancement [Hidden in the Depths]
+[27Jun2025 16:59:26.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 has made the advancement [Sea? Not a Problem]
+[27Jun2025 17:07:46.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelhg_18 has completed the challenge [Village Defender]
+[27Jun2025 17:08:28.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelhg_18 has completed the challenge [Hero of the Village]
+[27Jun2025 17:11:57.709] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Axelhg_18 lost connection: Disconnected
+[27Jun2025 17:11:57.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelhg_18 left the game
+[27Jun2025 17:12:18.867] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[27Jun2025 17:12:18.871] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[27Jun2025 17:12:18.876] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Axelhg_18[/127.44.218.43:50521] logged in with entity id 111965 at (-1345.2098538988532, 63.0, 858.8827366037895)
+[27Jun2025 17:12:18.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelhg_18 joined the game
+[27Jun2025 17:12:18.910] [Server thread/INFO] [Jade/]: Syncing config to Axelhg_18 (c66658e3-223d-3e24-b1e0-0b37669caa21)
+[27Jun2025 17:15:18.807] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/114711, l='ServerLevel[feliz]', x=-314.59, y=111.41, z=407.05] died: Undead Knight suffocated in a wall
+[27Jun2025 17:25:31.272] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/116765, l='ServerLevel[feliz]', x=-2256.80, y=62.50, z=-28114.18] died: Undead Knight was scorched to death

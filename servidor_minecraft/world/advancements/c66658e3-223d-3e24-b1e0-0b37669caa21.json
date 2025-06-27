@@ -349,12 +349,14 @@
       "minecraft:blaze": "2025-06-26 14:06:05 +0000",
       "minecraft:skeleton": "2025-06-24 15:37:19 +0000",
       "minecraft:elder_guardian": "2025-06-26 15:05:32 +0000",
+      "minecraft:ravager": "2025-06-27 17:08:13 +0000",
       "minecraft:ghast": "2025-06-24 22:28:05 +0000",
       "minecraft:hoglin": "2025-06-27 11:28:50 +0000",
       "minecraft:guardian": "2025-06-26 15:13:41 +0000",
       "minecraft:vindicator": "2025-06-25 18:17:57 +0000",
       "minecraft:magma_cube": "2025-06-26 14:06:38 +0000",
       "minecraft:spider": "2025-06-24 14:28:24 +0000",
+      "minecraft:piglin_brute": "2025-06-27 16:44:24 +0000",
       "minecraft:creeper": "2025-06-24 17:42:19 +0000",
       "minecraft:slime": "2025-06-24 18:06:32 +0000",
       "quark:forgotten": "2025-06-25 15:47:14 +0000",
@@ -1072,6 +1074,48 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-06-27 15:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-06-27 16:38:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-27 16:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_hoglin_stable": "2025-06-27 16:43:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-27 16:44:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-06-27 16:48:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-06-27 17:07:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-06-27 17:08:28 +0000"
     },
     "done": true
   },
