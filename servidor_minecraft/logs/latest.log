@@ -854,3 +854,14 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [27Jun2025 20:51:12.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noah_03 has made the advancement [First Prayer]
 [27Jun2025 20:53:07.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws has made the advancement [Into Fire]
 [27Jun2025 20:53:56.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noah_03 has made the advancement [Not of Chocolate]
+[27Jun2025 20:55:17.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noah_03 has made the advancement [Where Is The Stone Pen?]
+[27Jun2025 20:55:17.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noah_03 has made the advancement [Quickly Applied]
+[27Jun2025 20:56:43.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Noah_03> [name:"POrtal alex", x:-432, y:77, z:344, dim:minecraft:the_nether]
+[27Jun2025 20:56:48.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Noah_03> [name:"PORTAL", x:0, y:76, z:288, dim:minecraft:the_nether]
+[27Jun2025 20:58:06.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws tried to swim in lava
+[27Jun2025 20:58:06.598] [Server thread/INFO] [tombstone/]: The player ivandraws has successfully been saved
+[27Jun2025 20:59:15.413] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Gersquid the Sticky'/267120, l='ServerLevel[feliz]', x=-95.70, y=76.00, z=24.27] died: Gersquid the Sticky was shot by Axelhg_18
+[27Jun2025 20:59:16.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelhg_18 has made the advancement [Epic!]
+[27Jun2025 20:59:34.561] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=104, z=327} BlockPos{x=-89, y=78, z=47}
+[27Jun2025 20:59:34.616] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=104, z=327} BlockPos{x=-89, y=78, z=48}
+[27Jun2025 21:03:30.607] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Stephen the Rough'/269314, l='ServerLevel[feliz]', x=-105.01, y=68.00, z=107.86] died: Stephen the Rough was shot by Axelhg_18

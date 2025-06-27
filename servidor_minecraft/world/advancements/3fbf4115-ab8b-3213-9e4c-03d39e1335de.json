@@ -450,6 +450,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2025-06-27 20:41:54 +0000",
+      "minecraft:cat": "2025-06-27 20:56:36 +0000",
       "minecraft:chicken": "2025-06-24 17:29:11 +0000"
     },
     "done": false
@@ -762,11 +763,35 @@
     },
     "done": true
   },
+  "tombstone:adventure/combine_in_inventory": {
+    "criteria": {
+      "coded_trigger": "2025-06-27 20:55:17 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_decorative_grave": {
     "criteria": {
       "has_ingredient": "2025-06-27 20:50:54 +0000"
     },
     "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-06-27 20:55:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_strange_tablet": {
+    "criteria": {
+      "has_strange_tablet": "2025-06-27 20:53:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:black": "2025-06-27 20:56:29 +0000"
+    },
+    "done": false
   },
   "tombstone:adventure/create_grave_marble": {
     "criteria": {

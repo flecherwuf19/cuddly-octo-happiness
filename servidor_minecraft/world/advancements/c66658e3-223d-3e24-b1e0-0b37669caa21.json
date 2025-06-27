@@ -380,6 +380,7 @@
       "minecraft:stray": "2025-06-24 18:02:01 +0000",
       "minecraft:silverfish": "2025-06-24 18:47:50 +0000",
       "minecraft:zombie": "2025-06-24 14:15:50 +0000",
+      "quark:foxhound": "2025-06-27 21:00:24 +0000",
       "minecraft:drowned": "2025-06-24 21:57:47 +0000",
       "minecraft:zombie_villager": "2025-06-24 18:06:42 +0000"
     },
@@ -1161,6 +1162,12 @@
   "iceandfire:iceandfire/kill_sea_serpent": {
     "criteria": {
       "killed_fire_dragon": "2025-06-27 19:59:44 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-06-27 20:59:16 +0000"
     },
     "done": true
   },
