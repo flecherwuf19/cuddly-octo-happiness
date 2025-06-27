@@ -662,3 +662,4 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [27Jun2025 18:48:25.020] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 1772740408, path: 6e23bb2b-5d81-408e-891d-3306c633bcd3/air, elements: {}} attempted to update empty stack 0 air
 [27Jun2025 18:48:25.021] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 1726832512, path: 6e23bb2b-5d81-408e-891d-3306c633bcd3/air, elements: {}} attempted to update empty stack 0 air
 [27Jun2025 18:48:25.021] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 1028321404, path: 6e23bb2b-5d81-408e-891d-3306c633bcd3/air, elements: {}} attempted to update empty stack 0 air
+[27Jun2025 18:58:10.498] [Server thread/WARN] [pointblank/]: Skipping loading of outdated or expired slot mappings.
