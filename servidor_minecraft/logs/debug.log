@@ -11601,3 +11601,7 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [27Jun2025 17:25:31.272] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/116765, l='ServerLevel[feliz]', x=-2256.80, y=62.50, z=-28114.18] died: Undead Knight was scorched to death
 [27Jun2025 17:26:23.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
 [27Jun2025 17:26:23.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[27Jun2025 17:31:23.913] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[27Jun2025 17:31:23.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[27Jun2025 17:36:23.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[27Jun2025 17:36:23.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
