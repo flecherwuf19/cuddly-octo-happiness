@@ -663,3 +663,6 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [27Jun2025 18:48:25.021] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 1726832512, path: 6e23bb2b-5d81-408e-891d-3306c633bcd3/air, elements: {}} attempted to update empty stack 0 air
 [27Jun2025 18:48:25.021] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 1028321404, path: 6e23bb2b-5d81-408e-891d-3306c633bcd3/air, elements: {}} attempted to update empty stack 0 air
 [27Jun2025 18:58:10.498] [Server thread/WARN] [pointblank/]: Skipping loading of outdated or expired slot mappings.
+[27Jun2025 19:14:08.560] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Mr. Amanda the Doominator'/176462, l='ServerLevel[feliz]', x=-1623.39, y=-13.00, z=-20882.17] died: Mr. Amanda the Doominator was slain by SD53
+[27Jun2025 19:17:50.523] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Manny the Dark'/178044, l='ServerLevel[feliz]', x=-1555.30, y=-12.00, z=-20981.30] died: Manny the Dark was slain by SD53
+[27Jun2025 19:19:22.597] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/176090, l='ServerLevel[feliz]', x=-1623.37, y=64.83, z=-20975.93] died: Honeyed Archer suffocated in a wall
