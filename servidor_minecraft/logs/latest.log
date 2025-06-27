@@ -648,3 +648,17 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [27Jun2025 18:19:01.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Axelhg_18) moved wrongly! 0.2983136929003649
 [27Jun2025 18:20:29.010] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1258, y=25, z=1275} BlockPos{x=1258, y=22, z=1276}
 [27Jun2025 18:20:30.012] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1258, y=25, z=1275} BlockPos{x=1256, y=25, z=1273}
+[27Jun2025 18:30:21.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelhg_18 has made the advancement [Funeral Theft]
+[27Jun2025 18:32:44.368] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Poppa Susan the Superior'/157272, l='ServerLevel[feliz]', x=1832.30, y=22.16, z=683.70] died: Poppa Susan the Superior froze to death
+[27Jun2025 18:33:09.860] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1878, y=-1, z=666} BlockPos{x=1877, y=-2, z=666}
+[27Jun2025 18:34:39.664] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Lorraine the Magical'/157934, l='ServerLevel[feliz]', x=1823.00, y=-26.00, z=754.97] died: 1$s has perished from holy damage
+[27Jun2025 18:38:02.210] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Young'/159478, l='ServerLevel[feliz]', x=1923.00, y=-1.13, z=924.35] died: 1$s has perished from holy damage
+[27Jun2025 18:38:44.624] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Stephen the ... Something'/159819, l='ServerLevel[feliz]', x=1928.34, y=-3.00, z=895.71] died: 1$s has perished from holy damage
+[27Jun2025 18:39:08.215] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Sam the Hungry'/159921, l='ServerLevel[feliz]', x=1912.30, y=-3.00, z=885.01] died: 1$s has perished from holy damage
+[27Jun2025 18:39:20.113] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1867, y=-8, z=902} BlockPos{x=1917, y=0, z=867}
+[27Jun2025 18:39:27.709] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Rick the Hungry'/160034, l='ServerLevel[feliz]', x=1919.20, y=-3.00, z=874.57] died: 1$s has perished from holy damage
+[27Jun2025 18:39:40.703] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1918, y=0, z=865} BlockPos{x=1911, y=0, z=866}
+[27Jun2025 18:41:48.409] [Server thread/WARN] [pointblank/]: Skipping loading of outdated or expired slot mappings.
+[27Jun2025 18:48:25.020] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 1772740408, path: 6e23bb2b-5d81-408e-891d-3306c633bcd3/air, elements: {}} attempted to update empty stack 0 air
+[27Jun2025 18:48:25.021] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 1726832512, path: 6e23bb2b-5d81-408e-891d-3306c633bcd3/air, elements: {}} attempted to update empty stack 0 air
+[27Jun2025 18:48:25.021] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 1028321404, path: 6e23bb2b-5d81-408e-891d-3306c633bcd3/air, elements: {}} attempted to update empty stack 0 air

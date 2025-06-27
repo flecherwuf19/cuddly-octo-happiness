@@ -840,7 +840,8 @@
   },
   "quark:get_all_corundum": {
     "criteria": {
-      "red": "2025-06-25 16:51:48 +0000"
+      "red": "2025-06-25 16:51:48 +0000",
+      "black": "2025-06-27 18:39:21 +0000"
     },
     "done": false
   },
@@ -1123,6 +1124,12 @@
   "immersive_armors:recipes/misc/heavy": {
     "criteria": {
       "has_item": "2025-06-27 18:08:07 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-06-27 18:30:21 +0000"
     },
     "done": true
   },
