@@ -573,3 +573,28 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [27Jun2025 15:22:00.531] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SD53[/127.174.106.225:53473] logged in with entity id 1352 at (16.000954164599673, 103.5625, 327.41368631658844)
 [27Jun2025 15:22:00.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 joined the game
 [27Jun2025 15:22:00.594] [Server thread/INFO] [Jade/]: Syncing config to SD53 (737092d5-37cf-309c-ac64-c72d4a071ae7)
+[27Jun2025 15:25:54.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Axelhg_18) moved wrongly! 0.4890644013549945
+[27Jun2025 15:25:54.852] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Axelhg_18) moved wrongly! 0.6578697012752173
+[27Jun2025 15:25:54.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Axelhg_18) moved wrongly! 0.6609426008943728
+[27Jun2025 15:26:22.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Axelhg_18) moved wrongly! 0.8206208308304213
+[27Jun2025 15:26:22.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Axelhg_18) moved wrongly! 0.30857502484604993
+[27Jun2025 15:26:28.863] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1290, y=68, z=860}
+[27Jun2025 15:26:28.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1290, y=68, z=859}
+[27Jun2025 15:26:31.657] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1289, y=68, z=861} BlockPos{x=-1288, y=68, z=858}
+[27Jun2025 15:26:31.679] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1289, y=68, z=861} BlockPos{x=-1288, y=68, z=858}
+[27Jun2025 15:26:31.733] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1289, y=68, z=861} BlockPos{x=-1288, y=68, z=858}
+[27Jun2025 15:26:31.808] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1289, y=68, z=861} BlockPos{x=-1288, y=68, z=858}
+[27Jun2025 15:26:32.513] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1289, y=68, z=861} BlockPos{x=-1287, y=68, z=860}
+[27Jun2025 15:27:20.862] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1265, y=70, z=805} BlockPos{x=-1256, y=72, z=841}
+[27Jun2025 15:27:23.059] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1256, y=70, z=841} BlockPos{x=-1260, y=72, z=843}
+[27Jun2025 15:27:23.763] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1256, y=70, z=841} BlockPos{x=-1259, y=71, z=843}
+[27Jun2025 15:27:24.662] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1256, y=70, z=841} BlockPos{x=-1259, y=72, z=844}
+[27Jun2025 15:27:48.032] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[27Jun2025 15:29:43.864] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1169, y=-46, z=383}
+[27Jun2025 15:31:13.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelhg_18 has made the advancement [Mine? Mine? Mine?]
+[27Jun2025 15:31:27.278] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1286, y=74, z=574} BlockPos{x=-1140, y=64, z=562}
+[27Jun2025 15:31:27.334] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1286, y=74, z=574} BlockPos{x=-1140, y=64, z=562}
+[27Jun2025 15:31:27.773] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1141, y=64, z=561} BlockPos{x=-1140, y=65, z=562}
+[27Jun2025 15:31:29.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1141, y=64, z=561} BlockPos{x=-1142, y=64, z=562}
+[27Jun2025 15:32:33.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelhg_18 has made the advancement [Who You Gonna Call?]
+[27Jun2025 15:39:03.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelhg_18 has made the advancement [The Parrots and the Bats]
