@@ -611,3 +611,53 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [27Jun2025 22:23:57.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Axelhg_18) moved wrongly! 0.5
 [27Jun2025 22:24:02.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Axelhg_18) moved wrongly! 0.5547563531056312
 [27Jun2025 22:24:31.746] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3341, y=-9, z=1889} BlockPos{x=3326, y=-28, z=2173}
+[27Jun2025 22:26:33.340] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3309, y=-12, z=2064} BlockPos{x=3331, y=-50, z=2129}
+[27Jun2025 22:26:33.396] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3309, y=-12, z=2064} BlockPos{x=3332, y=-50, z=2128}
+[27Jun2025 22:26:35.569] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3331, y=-50, z=2128} BlockPos{x=3330, y=-50, z=2128}
+[27Jun2025 22:27:03.546] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Doctor Mason the Pig Thief'/8076, l='ServerLevel[feliz]', x=-1899.21, y=-28.00, z=-21268.30] died: Doctor Mason the Pig Thief was slain by SD53
+[27Jun2025 22:30:53.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelhg_18 has made the advancement [Brazen]
+[27Jun2025 22:33:44.242] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ivandraws lost connection: Disconnected
+[27Jun2025 22:33:44.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws left the game
+[27Jun2025 22:36:47.390] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[27Jun2025 22:36:47.394] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[27Jun2025 22:36:47.395] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ivandraws[/127.125.28.50:33813] logged in with entity id 19631 at (-598.6999999880791, 70.44364798010105, 496.6070611332565)
+[27Jun2025 22:36:47.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws joined the game
+[27Jun2025 22:36:47.435] [Server thread/INFO] [Jade/]: Syncing config to ivandraws (49d5f46e-ae2a-3ec7-8e3d-fe43615458fa)
+[27Jun2025 22:36:52.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws was burnt to a crisp whilst fighting Mutant Creeper
+[27Jun2025 22:36:52.744] [Server thread/INFO] [tombstone/]: The player ivandraws has successfully been saved
+[27Jun2025 22:37:18.037] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Ronald the Questionable'/18083, l='ServerLevel[feliz]', x=-1830.81, y=-41.00, z=-21350.63] died: Ronald the Questionable was slain by SD53
+[27Jun2025 22:39:17.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Axelhg_18) moved wrongly! 0.4309802058742207
+[27Jun2025 22:39:17.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Axelhg_18) moved wrongly! 1.1856847428107358
+[27Jun2025 22:39:17.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Axelhg_18) moved wrongly! 0.44559195137935603
+[27Jun2025 22:41:44.287] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5004, y=-12, z=2602} BlockPos{x=5038, y=-17, z=2710}
+[27Jun2025 22:44:40.445] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Dr. Michael Dinuu the Rock Smasher'/31215, l='ServerLevel[feliz]', x=-1833.12, y=-42.00, z=-21306.41] died: Dr. Michael Dinuu the Rock Smasher was slain by SD53
+[27Jun2025 22:45:50.592] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Jonidkat'/32432, l='ServerLevel[feliz]', x=-1797.64, y=-46.00, z=-21323.96] died: Jonidkat was slain by SD53
+[27Jun2025 22:46:35.745] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Marty the Mythical'/32431, l='ServerLevel[feliz]', x=-1796.76, y=-45.89, z=-21320.72] died: Marty the Mythical was slain by SD53
+[27Jun2025 22:47:31.633] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Leonard the Cheese Sprayer'/33850, l='ServerLevel[feliz]', x=5010.70, y=39.00, z=2921.82] died: Leonard the Cheese Sprayer was shot by Axelhg_18
+[27Jun2025 22:52:06.180] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Katdonhell the Dragonborn'/38787, l='ServerLevel[feliz]', x=4959.24, y=-6.00, z=3025.30] died: Katdonhell the Dragonborn was shot by Axelhg_18
+[27Jun2025 22:53:20.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
+[27Jun2025 22:54:27.665] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[27Jun2025 22:54:46.352] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3701ms or 74 ticks behind
+[27Jun2025 22:55:29.678] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Axelhg_18 lost connection: Disconnected
+[27Jun2025 22:55:29.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelhg_18 left the game
+[27Jun2025 22:55:50.047] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[27Jun2025 22:55:50.052] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[27Jun2025 22:55:50.052] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Axelhg_18[/127.44.218.43:59087] logged in with entity id 43396 at (5575.336856029342, 66.0, 3087.6020489546104)
+[27Jun2025 22:55:50.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelhg_18 joined the game
+[27Jun2025 22:55:50.088] [Server thread/INFO] [Jade/]: Syncing config to Axelhg_18 (c66658e3-223d-3e24-b1e0-0b37669caa21)
+[27Jun2025 22:57:01.874] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ivandraws lost connection: Disconnected
+[27Jun2025 22:57:01.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws left the game
+[27Jun2025 22:58:10.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Axelhg_18) moved wrongly! 0.355255835907883
+[27Jun2025 22:59:04.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 has made the advancement [The Cutest Predator]
+[27Jun2025 23:01:06.726] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Lobidson'/51707, l='ServerLevel[feliz]', x=-1904.42, y=-32.00, z=-21413.01] died: Lobidson was slain by SD53
+[27Jun2025 23:01:49.776] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Rosa the AC Rizzlord'/52005, l='ServerLevel[feliz]', x=-1928.70, y=-33.00, z=-21431.35] died: Rosa the AC Rizzlord was slain by SD53
+[27Jun2025 23:05:05.737] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/20135, l='ServerLevel[feliz]', x=-1777.00, y=68.23, z=-21520.16, removed=DISCARDED]
+[27Jun2025 23:05:17.759] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Jun2025 23:05:22.709] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Jun2025 23:07:26.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from holy damage
+[27Jun2025 23:07:26.169] [Server thread/INFO] [tombstone/]: The player SD53 has successfully been saved
+[27Jun2025 23:09:16.285] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Sally the Son of Herobrine'/62708, l='ServerLevel[feliz]', x=-1749.61, y=-25.00, z=-21402.36] died: Sally the Son of Herobrine was slain by SD53
+[27Jun2025 23:09:37.837] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=8608, y=76, z=3600} BlockPos{x=8621, y=-45, z=3643}
+[27Jun2025 23:13:10.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SD53 moved wrongly!
+[27Jun2025 23:15:28.185] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=8765, y=-17, z=3463} BlockPos{x=8737, y=-26, z=3418}
+[27Jun2025 23:20:12.490] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Karen'/67726, l='ServerLevel[feliz]', x=-1805.54, y=-37.00, z=-21070.09] died: Karen was slain by SD53
