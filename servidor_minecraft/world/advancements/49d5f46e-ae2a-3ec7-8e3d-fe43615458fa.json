@@ -300,6 +300,7 @@
       "minecraft:spider": "2025-06-24 14:42:02 +0000",
       "minecraft:creeper": "2025-06-24 20:49:12 +0000",
       "minecraft:witch": "2025-06-26 11:51:35 +0000",
+      "minecraft:wither_skeleton": "2025-06-27 20:51:19 +0000",
       "minecraft:cave_spider": "2025-06-26 11:51:13 +0000",
       "quark:wraith": "2025-06-26 22:00:28 +0000",
       "minecraft:piglin": "2025-06-27 11:25:49 +0000",
@@ -758,6 +759,18 @@
   "immersive_armors:recipes/misc/prismarine": {
     "criteria": {
       "has_item": "2025-06-27 11:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-06-27 20:45:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-06-27 20:49:31 +0000"
     },
     "done": true
   },

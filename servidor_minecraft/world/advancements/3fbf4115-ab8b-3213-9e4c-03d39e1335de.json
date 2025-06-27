@@ -449,6 +449,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2025-06-27 20:41:54 +0000",
       "minecraft:chicken": "2025-06-24 17:29:11 +0000"
     },
     "done": false
@@ -746,6 +747,36 @@
   "occultism:occultism/summon_foliot_crusher": {
     "criteria": {
       "summon_foliot_crusher": "2025-06-26 17:15:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_decorative_grave": {
+    "criteria": {
+      "has_decorative_grave": "2025-06-27 20:50:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_dark_marble": {
+    "criteria": {
+      "has_ingredient": "2025-06-27 20:49:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2025-06-27 20:50:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_grave_marble": {
+    "criteria": {
+      "has_grave_marble": "2025-06-27 20:49:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_pray": {
+    "criteria": {
+      "coded_trigger": "2025-06-27 20:51:12 +0000"
     },
     "done": true
   },

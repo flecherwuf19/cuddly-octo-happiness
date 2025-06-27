@@ -846,3 +846,11 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [27Jun2025 20:31:30.299] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Noah_03[/127.66.108.54:50287] logged in with entity id 250781 at (-127.98478466984916, 96.0, 114.46864904974157)
 [27Jun2025 20:31:30.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noah_03 joined the game
 [27Jun2025 20:31:30.347] [Server thread/INFO] [Jade/]: Syncing config to Noah_03 (3fbf4115-ab8b-3213-9e4c-03d39e1335de)
+[27Jun2025 20:45:15.271] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-93, y=101, z=-51} BlockPos{x=-93, y=100, z=-50}
+[27Jun2025 20:45:52.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws has made the advancement [Hidden in the Depths]
+[27Jun2025 20:49:31.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws has made the advancement [A Terrible Fortress]
+[27Jun2025 20:49:36.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noah_03 has made the advancement [Black or White]
+[27Jun2025 20:50:54.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noah_03 has reached the goal [A Small Cemetery]
+[27Jun2025 20:51:12.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noah_03 has made the advancement [First Prayer]
+[27Jun2025 20:53:07.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws has made the advancement [Into Fire]
+[27Jun2025 20:53:56.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noah_03 has made the advancement [Not of Chocolate]

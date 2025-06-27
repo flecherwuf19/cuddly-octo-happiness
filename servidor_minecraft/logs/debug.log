@@ -21637,3 +21637,17 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [27Jun2025 20:37:40.573] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1537604909 to 20
 [27Jun2025 20:41:44.138] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
 [27Jun2025 20:41:44.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[27Jun2025 20:45:15.271] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-93, y=101, z=-51} BlockPos{x=-93, y=100, z=-50}
+[27Jun2025 20:45:52.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws has made the advancement [Hidden in the Depths]
+[27Jun2025 20:46:44.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[27Jun2025 20:46:44.153] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[27Jun2025 20:49:31.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws has made the advancement [A Terrible Fortress]
+[27Jun2025 20:49:36.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noah_03 has made the advancement [Black or White]
+[27Jun2025 20:50:54.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noah_03 has reached the goal [A Small Cemetery]
+[27Jun2025 20:51:12.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noah_03 has made the advancement [First Prayer]
+[27Jun2025 20:51:44.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[27Jun2025 20:51:44.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[27Jun2025 20:53:07.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws has made the advancement [Into Fire]
+[27Jun2025 20:53:35.990] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-451, y=56, z=308}
+[27Jun2025 20:53:35.990] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-451, y=57, z=308}
+[27Jun2025 20:53:56.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noah_03 has made the advancement [Not of Chocolate]
