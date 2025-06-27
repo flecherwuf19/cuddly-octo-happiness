@@ -1028,3 +1028,30 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [27Jun2025 21:21:23.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Axelhg_18) moved wrongly! 0.378179346998877
 [27Jun2025 21:22:15.182] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noah_03 lost connection: Disconnected
 [27Jun2025 21:22:15.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noah_03 left the game
+[27Jun2025 21:26:29.720] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/302367, l='ServerLevel[feliz]', x=-1634.14, y=67.41, z=-20924.84] died: Undead Knight was slain by SD53
+[27Jun2025 21:26:37.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 fell from a high place
+[27Jun2025 21:26:37.635] [Server thread/INFO] [tombstone/]: The player SD53 has successfully been saved
+[27Jun2025 21:27:58.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of SD53) moved wrongly! 0.7388934992450231
+[27Jun2025 21:27:58.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of SD53) moved wrongly! 1.8138683038081227
+[27Jun2025 21:28:03.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of SD53) moved wrongly! 0.33665040531923296
+[27Jun2025 21:28:04.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of SD53) moved wrongly! 0.3889489376961137
+[27Jun2025 21:28:04.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of SD53) moved wrongly! 1.043755496662925
+[27Jun2025 21:28:04.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of SD53) moved wrongly! 1.6860568460797367
+[27Jun2025 21:28:04.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of SD53) moved wrongly! 2.3992810414129053
+[27Jun2025 21:28:04.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of SD53) moved too quickly! -8.498401656710712,2.0,4.876501985327195
+[27Jun2025 21:28:04.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of SD53) moved too quickly! -9.308647867907439,2.0,5.658163155640068
+[27Jun2025 21:28:04.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of SD53) moved too quickly! -10.112731043037002,2.0,6.570262017445202
+[27Jun2025 21:28:04.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of SD53) moved too quickly! -10.914840892338134,2.0,7.5511590194109885
+[27Jun2025 21:28:04.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of SD53) moved too quickly! -11.771211519423787,2.0,8.521777495261631
+[27Jun2025 21:28:04.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of SD53) moved wrongly! 1.0493847565885517
+[27Jun2025 21:28:04.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of SD53) moved wrongly! 1.0493847565885517
+[27Jun2025 21:28:04.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of SD53) moved wrongly! 1.0493847565885517
+[27Jun2025 21:28:04.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of SD53) moved wrongly! 1.0493847565885517
+[27Jun2025 21:28:04.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of SD53) moved wrongly! 1.0493847565885517
+[27Jun2025 21:28:04.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of SD53) moved too quickly! -8.730235319349049,2.0,5.1076647567497275
+[27Jun2025 21:28:04.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of SD53) moved too quickly! -9.88771691353304,2.0,5.688510253752611
+[27Jun2025 21:28:04.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of SD53) moved wrongly! 1.0076419036861353
+[27Jun2025 21:28:04.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of SD53) moved wrongly! 2.30615547968614
+[27Jun2025 21:28:04.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of SD53) moved wrongly! 3.494484173402725
+[27Jun2025 21:31:39.226] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Darshosto the Legendary'/305570, l='ServerLevel[feliz]', x=-1608.75, y=-3.00, z=-20910.49] died: Darshosto the Legendary was scorched to death
+[27Jun2025 21:33:15.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelhg_18 has made the advancement [Local Brewery]
