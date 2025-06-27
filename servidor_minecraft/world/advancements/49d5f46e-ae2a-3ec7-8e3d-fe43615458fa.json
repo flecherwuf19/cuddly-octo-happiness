@@ -301,6 +301,7 @@
       "minecraft:witch": "2025-06-26 11:51:35 +0000",
       "minecraft:cave_spider": "2025-06-26 11:51:13 +0000",
       "quark:wraith": "2025-06-26 22:00:28 +0000",
+      "minecraft:piglin": "2025-06-27 11:25:49 +0000",
       "minecraft:enderman": "2025-06-25 22:58:30 +0000",
       "minecraft:zombie": "2025-06-24 14:10:08 +0000",
       "quark:foxhound": "2025-06-26 16:40:39 +0000",
@@ -729,6 +730,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-26 21:26:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-06-26 21:46:07 +0000"
@@ -747,9 +754,9 @@
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
+  "immersive_armors:recipes/misc/prismarine": {
     "criteria": {
-      "deflected_projectile": "2025-06-26 21:26:10 +0000"
+      "has_item": "2025-06-27 11:13:12 +0000"
     },
     "done": true
   },
