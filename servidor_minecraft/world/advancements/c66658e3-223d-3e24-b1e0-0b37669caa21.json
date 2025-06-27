@@ -1168,9 +1168,9 @@
     },
     "done": true
   },
-  "apotheosis:affix/epic": {
+  "iceandfire:iceandfire/gorgon_head": {
     "criteria": {
-      "sword": "2025-06-27 20:59:16 +0000"
+      "bestiary": "2025-06-27 20:03:41 +0000"
     },
     "done": true
   },
@@ -1180,9 +1180,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_hydra": {
+  "apotheosis:affix/epic": {
     "criteria": {
-      "killed_fire_dragon": "2025-06-27 21:41:28 +0000"
+      "sword": "2025-06-27 20:59:16 +0000"
     },
     "done": true
   },
@@ -1192,9 +1192,21 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/gorgon_head": {
+  "iceandfire:iceandfire/kill_hydra": {
     "criteria": {
-      "bestiary": "2025-06-27 20:03:41 +0000"
+      "killed_fire_dragon": "2025-06-27 21:41:28 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/root": {
+    "criteria": {
+      "spawner": "2025-06-27 22:05:47 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-06-27 22:09:20 +0000"
     },
     "done": true
   },

@@ -1007,21 +1007,33 @@
     },
     "done": false
   },
-  "iceandfire:iceandfire/kill_sea_serpent": {
-    "criteria": {
-      "killed_fire_dragon": "2025-06-27 16:59:26 +0000"
-    },
-    "done": true
-  },
   "immersive_armors:recipes/misc/prismarine": {
     "criteria": {
       "has_item": "2025-06-27 16:31:15 +0000"
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-27 16:59:26 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/village_defender": {
     "criteria": {
       "coded_trigger": "2025-06-27 20:19:51 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-06-27 21:53:45 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2025-06-27 21:57:07 +0000"
     },
     "done": true
   },
