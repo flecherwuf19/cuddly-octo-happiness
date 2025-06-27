@@ -1,0 +1,1 @@
+{"id": "puzzlelib", "chapter": "tecnico", "title": "Puzzle Lib", "description": "Biblioteca usada por mods como Ars Nouveau.", "tasks": [{"id": "item", "item": "puzzlelib:magic_puzzle"}], "rewards": [{"id": "xp", "xp": 5}]}

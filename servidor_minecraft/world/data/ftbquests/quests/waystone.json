@@ -1,0 +1,1 @@
+{"id": "waystone", "chapter": "exploracion", "title": "Coloca una Waystone", "tasks": [{"id": "item", "item": "waystones:waystone"}], "rewards": [{"id": "xp", "xp": 15}, {"id": "item", "item": "waystones:return_scroll", "count": 3}]}

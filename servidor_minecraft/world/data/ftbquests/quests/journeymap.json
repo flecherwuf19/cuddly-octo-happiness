@@ -1,0 +1,1 @@
+{"id": "journeymap", "chapter": "exploracion", "title": "Explora con JourneyMap", "description": "Abre el mapa y coloca un marcador.", "tasks": [{"id": "item", "item": "journeymap:map_tool"}], "rewards": [{"id": "xp", "xp": 12}, {"id": "item", "item": "minecraft:compass"}]}

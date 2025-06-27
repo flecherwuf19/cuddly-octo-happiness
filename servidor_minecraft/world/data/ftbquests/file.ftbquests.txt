@@ -1,0 +1,7 @@
+{
+  "title": "Misiones completas",
+  "subtitle": "FTB Quests personalizado",
+  "author": "ChatGPT",
+  "version": 1,
+  "default_autopin": true
+}

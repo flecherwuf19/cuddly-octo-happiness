@@ -1,0 +1,1 @@
+{"id": "cyclops_core", "chapter": "exploracion", "title": "Núcleo Cyclops", "description": "Este mod da soporte técnico para automatización.", "tasks": [{"id": "item", "item": "cyclopscore:crafting_initiator"}], "rewards": [{"id": "xp", "xp": 5}]}

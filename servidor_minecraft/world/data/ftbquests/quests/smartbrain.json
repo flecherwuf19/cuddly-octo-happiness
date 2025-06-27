@@ -1,0 +1,1 @@
+{"id": "smartbrain", "chapter": "almacenamiento", "title": "Smart Brain Lib", "description": "Este mod es soporte para IA, necesario en segundo plano.", "tasks": [{"id": "item", "item": "smartbrainlib:smart_brain_core"}], "rewards": [{"id": "xp", "xp": 5}]}
