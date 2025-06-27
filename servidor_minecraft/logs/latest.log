@@ -832,3 +832,17 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [27Jun2025 20:20:55.480] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ivandraws[/127.125.28.50:52907] logged in with entity id 243526 at (-455.3386995329971, 95.0, 517.4593243008452)
 [27Jun2025 20:20:55.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws joined the game
 [27Jun2025 20:20:55.534] [Server thread/INFO] [Jade/]: Syncing config to ivandraws (49d5f46e-ae2a-3ec7-8e3d-fe43615458fa)
+[27Jun2025 20:26:39.279] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [cyclic:main_channel,flib:main_channel] rejected their client side version number
+[27Jun2025 20:26:39.279] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[27Jun2025 20:26:39.326] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@643408a0[id=<null>,name=Noah_03,properties={},legacy=false] (/127.66.108.54:46389) lost connection: Connection closed - mismatched mod channel list
+[27Jun2025 20:27:54.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SD53 moved too quickly! 0.19591966484654222,-11.074107306387125,0.7247981633736345
+[27Jun2025 20:27:55.024] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7639ms or 152 ticks behind
+[27Jun2025 20:31:30.291] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: quark:building/crafting/sturdy_stone_decompress removed now.
+[27Jun2025 20:31:30.293] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: quark:building/crafting/sturdy_stone removed now.
+[27Jun2025 20:31:30.294] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[27Jun2025 20:31:30.295] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: quark:building/crafting/sturdy_stone_decompress removed now.
+[27Jun2025 20:31:30.297] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: quark:building/crafting/sturdy_stone removed now.
+[27Jun2025 20:31:30.298] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[27Jun2025 20:31:30.299] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Noah_03[/127.66.108.54:50287] logged in with entity id 250781 at (-127.98478466984916, 96.0, 114.46864904974157)
+[27Jun2025 20:31:30.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noah_03 joined the game
+[27Jun2025 20:31:30.347] [Server thread/INFO] [Jade/]: Syncing config to Noah_03 (3fbf4115-ab8b-3213-9e4c-03d39e1335de)
