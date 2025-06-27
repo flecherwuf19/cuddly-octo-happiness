@@ -13249,3 +13249,34 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [27Jun2025 23:25:27.929] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6108dd49
 [27Jun2025 23:25:27.931] [Server thread/DEBUG] [pointblank/]: ServerPlayer['SD53'/595, l='ServerLevel[feliz]', x=-1649.10, y=-52.00, z=-20930.28] sends hit scan notification to ServerPlayer['SD53'/595, l='ServerLevel[feliz]', x=-1649.10, y=-52.00, z=-20930.28]
 [27Jun2025 23:25:35.845] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1208052328 to 12
+[27Jun2025 23:28:07.553] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[27Jun2025 23:28:07.568] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[27Jun2025 23:28:40.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SD53> [name:"Cueva agon", x:-1691, y:0, z:-20789, dim:minecraft:overworld]
+[27Jun2025 23:32:01.724] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Axelhg_18 lost connection: Disconnected
+[27Jun2025 23:32:01.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelhg_18 left the game
+[27Jun2025 23:32:01.824] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-451, y=56, z=308}
+[27Jun2025 23:32:01.824] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-451, y=57, z=308}
+[27Jun2025 23:32:06.862] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SD53 lost connection: Disconnected
+[27Jun2025 23:32:06.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 left the game
+[27Jun2025 23:33:07.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[27Jun2025 23:33:07.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[27Jun2025 23:33:08.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Jun2025 23:33:08.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Jun2025 23:33:08.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Jun2025 23:33:08.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[feliz]'/minecraft:overworld
+[27Jun2025 23:33:08.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[feliz]'/minecraft:the_end
+[27Jun2025 23:33:08.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[feliz]'/minecraft:the_nether
+[27Jun2025 23:33:08.767] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[27Jun2025 23:33:08.785] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[27Jun2025 23:33:08.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27Jun2025 23:33:08.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Jun2025 23:33:08.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Jun2025 23:33:08.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[27Jun2025 23:33:09.142] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[27Jun2025 23:33:09.142] [Server thread/INFO] [Framework/]: Unloading server configs...
+[27Jun2025 23:33:09.143] [Server thread/DEBUG] [Framework/]: Stopped watching config: /workspaces/cuddly-octo-happiness/servidor_minecraft/config/refurbished_furniture.server.toml
+[27Jun2025 23:33:09.143] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[27Jun2025 23:33:09.147] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[27Jun2025 23:33:09.147] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[27Jun2025 23:33:09.147] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[27Jun2025 23:33:09.149] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

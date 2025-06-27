@@ -661,3 +661,22 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [27Jun2025 23:13:10.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SD53 moved wrongly!
 [27Jun2025 23:15:28.185] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=8765, y=-17, z=3463} BlockPos{x=8737, y=-26, z=3418}
 [27Jun2025 23:20:12.490] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Karen'/67726, l='ServerLevel[feliz]', x=-1805.54, y=-37.00, z=-21070.09] died: Karen was slain by SD53
+[27Jun2025 23:28:40.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SD53> [name:"Cueva agon", x:-1691, y:0, z:-20789, dim:minecraft:overworld]
+[27Jun2025 23:32:01.724] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Axelhg_18 lost connection: Disconnected
+[27Jun2025 23:32:01.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelhg_18 left the game
+[27Jun2025 23:32:06.862] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SD53 lost connection: Disconnected
+[27Jun2025 23:32:06.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 left the game
+[27Jun2025 23:33:08.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Jun2025 23:33:08.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Jun2025 23:33:08.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Jun2025 23:33:08.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[feliz]'/minecraft:overworld
+[27Jun2025 23:33:08.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[feliz]'/minecraft:the_end
+[27Jun2025 23:33:08.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[feliz]'/minecraft:the_nether
+[27Jun2025 23:33:08.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27Jun2025 23:33:08.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Jun2025 23:33:08.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Jun2025 23:33:08.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[27Jun2025 23:33:09.142] [Server thread/INFO] [Framework/]: Unloading server configs...
+[27Jun2025 23:33:09.143] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[27Jun2025 23:33:09.147] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[27Jun2025 23:33:09.149] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
