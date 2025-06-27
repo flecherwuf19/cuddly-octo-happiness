@@ -638,3 +638,4 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [27Jun2025 17:12:18.910] [Server thread/INFO] [Jade/]: Syncing config to Axelhg_18 (c66658e3-223d-3e24-b1e0-0b37669caa21)
 [27Jun2025 17:15:18.807] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/114711, l='ServerLevel[feliz]', x=-314.59, y=111.41, z=407.05] died: Undead Knight suffocated in a wall
 [27Jun2025 17:25:31.272] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/116765, l='ServerLevel[feliz]', x=-2256.80, y=62.50, z=-28114.18] died: Undead Knight was scorched to death
+[27Jun2025 18:08:42.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Axelhg_18) moved wrongly! 0.672100353987048
