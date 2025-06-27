@@ -639,3 +639,12 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [27Jun2025 17:15:18.807] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/114711, l='ServerLevel[feliz]', x=-314.59, y=111.41, z=407.05] died: Undead Knight suffocated in a wall
 [27Jun2025 17:25:31.272] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/116765, l='ServerLevel[feliz]', x=-2256.80, y=62.50, z=-28114.18] died: Undead Knight was scorched to death
 [27Jun2025 18:08:42.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Axelhg_18) moved wrongly! 0.672100353987048
+[27Jun2025 18:14:33.224] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-243, y=-10, z=954}
+[27Jun2025 18:14:37.013] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-213, y=38, z=947}
+[27Jun2025 18:14:37.013] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-212, y=38, z=947}
+[27Jun2025 18:14:43.379] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-148, y=32, z=929}
+[27Jun2025 18:16:29.722] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-22, y=32, z=935}
+[27Jun2025 18:17:32.521] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=98, y=12, z=1017}
+[27Jun2025 18:19:01.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Axelhg_18) moved wrongly! 0.2983136929003649
+[27Jun2025 18:20:29.010] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1258, y=25, z=1275} BlockPos{x=1258, y=22, z=1276}
+[27Jun2025 18:20:30.012] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1258, y=25, z=1275} BlockPos{x=1256, y=25, z=1273}

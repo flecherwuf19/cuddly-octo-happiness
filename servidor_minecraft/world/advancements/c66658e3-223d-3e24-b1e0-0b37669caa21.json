@@ -261,6 +261,7 @@
       "minecraft:dripstone_caves": "2025-06-24 14:50:45 +0000",
       "minecraft:snowy_taiga": "2025-06-27 11:11:27 +0000",
       "minecraft:grove": "2025-06-24 15:05:50 +0000",
+      "minecraft:jagged_peaks": "2025-06-27 18:16:55 +0000",
       "minecraft:cold_ocean": "2025-06-27 10:53:48 +0000",
       "minecraft:forest": "2025-06-24 14:11:24 +0000",
       "minecraft:lush_caves": "2025-06-26 11:08:58 +0000",
@@ -1116,6 +1117,12 @@
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-06-27 17:08:28 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-06-27 18:08:07 +0000"
     },
     "done": true
   },

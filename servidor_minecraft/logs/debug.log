@@ -11684,3 +11684,71 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [27Jun2025 18:06:23.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
 [27Jun2025 18:06:23.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
 [27Jun2025 18:08:42.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Axelhg_18) moved wrongly! 0.672100353987048
+[27Jun2025 18:11:24.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[27Jun2025 18:11:24.089] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[27Jun2025 18:13:29.737] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-451, y=56, z=308}
+[27Jun2025 18:13:29.737] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-451, y=57, z=308}
+[27Jun2025 18:14:33.224] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-243, y=-10, z=954}
+[27Jun2025 18:14:37.013] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-213, y=38, z=947}
+[27Jun2025 18:14:37.013] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-212, y=38, z=947}
+[27Jun2025 18:14:43.379] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-148, y=32, z=929}
+[27Jun2025 18:16:23.935] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[27Jun2025 18:16:23.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[27Jun2025 18:16:29.722] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-22, y=32, z=935}
+[27Jun2025 18:17:32.521] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=98, y=12, z=1017}
+[27Jun2025 18:18:19.968] [Server thread/DEBUG] [pointblank/]: 99968 handling client fire request
+[27Jun2025 18:18:19.968] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1828200817 to 29
+[27Jun2025 18:18:19.968] [Server thread/DEBUG] [pointblank/]: 99968 - obtained hit result in 0ms
+[27Jun2025 18:18:19.968] [Server thread/DEBUG] [pointblank/]: 99968 obtained hit results
+[27Jun2025 18:18:19.968] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2fd731c0
+[27Jun2025 18:18:19.969] [Server thread/DEBUG] [pointblank/]: ServerPlayer['SD53'/1352, l='ServerLevel[feliz]', x=-17.58, y=101.00, z=318.33] sends hit scan notification to ServerPlayer['SD53'/1352, l='ServerLevel[feliz]', x=-17.58, y=101.00, z=318.33]
+[27Jun2025 18:18:20.066] [Server thread/DEBUG] [pointblank/]: 66 handling client fire request
+[27Jun2025 18:18:20.066] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1828200817 to 28
+[27Jun2025 18:18:20.066] [Server thread/DEBUG] [pointblank/]: 66 - obtained hit result in 0ms
+[27Jun2025 18:18:20.066] [Server thread/DEBUG] [pointblank/]: 66 obtained hit results
+[27Jun2025 18:18:20.066] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@bebbf05
+[27Jun2025 18:18:20.066] [Server thread/DEBUG] [pointblank/]: ServerPlayer['SD53'/1352, l='ServerLevel[feliz]', x=-17.58, y=101.00, z=318.33] sends hit scan notification to ServerPlayer['SD53'/1352, l='ServerLevel[feliz]', x=-17.58, y=101.00, z=318.33]
+[27Jun2025 18:18:20.162] [Server thread/DEBUG] [pointblank/]: 162 handling client fire request
+[27Jun2025 18:18:20.162] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1828200817 to 27
+[27Jun2025 18:18:20.163] [Server thread/DEBUG] [pointblank/]: 163 - obtained hit result in 0ms
+[27Jun2025 18:18:20.163] [Server thread/DEBUG] [pointblank/]: 163 obtained hit results
+[27Jun2025 18:18:20.163] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@27d8736d
+[27Jun2025 18:18:20.163] [Server thread/DEBUG] [pointblank/]: ServerPlayer['SD53'/1352, l='ServerLevel[feliz]', x=-17.58, y=101.00, z=318.33] sends hit scan notification to ServerPlayer['SD53'/1352, l='ServerLevel[feliz]', x=-17.58, y=101.00, z=318.33]
+[27Jun2025 18:18:20.229] [Server thread/DEBUG] [pointblank/]: 229 handling client fire request
+[27Jun2025 18:18:20.229] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1828200817 to 26
+[27Jun2025 18:18:20.229] [Server thread/DEBUG] [pointblank/]: 229 - obtained hit result in 0ms
+[27Jun2025 18:18:20.229] [Server thread/DEBUG] [pointblank/]: 229 obtained hit results
+[27Jun2025 18:18:20.229] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4525092d
+[27Jun2025 18:18:20.229] [Server thread/DEBUG] [pointblank/]: ServerPlayer['SD53'/1352, l='ServerLevel[feliz]', x=-17.58, y=101.00, z=318.33] sends hit scan notification to ServerPlayer['SD53'/1352, l='ServerLevel[feliz]', x=-17.58, y=101.00, z=318.33]
+[27Jun2025 18:18:20.314] [Server thread/DEBUG] [pointblank/]: 314 handling client fire request
+[27Jun2025 18:18:20.314] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1828200817 to 25
+[27Jun2025 18:18:20.314] [Server thread/DEBUG] [pointblank/]: 314 - obtained hit result in 0ms
+[27Jun2025 18:18:20.314] [Server thread/DEBUG] [pointblank/]: 314 obtained hit results
+[27Jun2025 18:18:20.314] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7db98113
+[27Jun2025 18:18:20.315] [Server thread/DEBUG] [pointblank/]: ServerPlayer['SD53'/1352, l='ServerLevel[feliz]', x=-17.58, y=101.00, z=318.33] sends hit scan notification to ServerPlayer['SD53'/1352, l='ServerLevel[feliz]', x=-17.58, y=101.00, z=318.33]
+[27Jun2025 18:18:20.664] [Server thread/DEBUG] [pointblank/]: 664 handling client fire request
+[27Jun2025 18:18:20.664] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1828200817 to 24
+[27Jun2025 18:18:20.664] [Server thread/DEBUG] [pointblank/]: 664 - obtained hit result in 0ms
+[27Jun2025 18:18:20.664] [Server thread/DEBUG] [pointblank/]: 664 obtained hit results
+[27Jun2025 18:18:20.664] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3dbe72ed
+[27Jun2025 18:18:20.665] [Server thread/DEBUG] [pointblank/]: ServerPlayer['SD53'/1352, l='ServerLevel[feliz]', x=-17.58, y=101.00, z=318.33] sends hit scan notification to ServerPlayer['SD53'/1352, l='ServerLevel[feliz]', x=-17.58, y=101.00, z=318.33]
+[27Jun2025 18:18:20.714] [Server thread/DEBUG] [pointblank/]: 714 handling client fire request
+[27Jun2025 18:18:20.714] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1828200817 to 23
+[27Jun2025 18:18:20.714] [Server thread/DEBUG] [pointblank/]: 714 - obtained hit result in 0ms
+[27Jun2025 18:18:20.714] [Server thread/DEBUG] [pointblank/]: 714 obtained hit results
+[27Jun2025 18:18:20.714] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3d7a2f8e
+[27Jun2025 18:18:20.715] [Server thread/DEBUG] [pointblank/]: ServerPlayer['SD53'/1352, l='ServerLevel[feliz]', x=-17.58, y=101.00, z=318.33] sends hit scan notification to ServerPlayer['SD53'/1352, l='ServerLevel[feliz]', x=-17.58, y=101.00, z=318.33]
+[27Jun2025 18:18:20.786] [Server thread/DEBUG] [pointblank/]: 786 handling client fire request
+[27Jun2025 18:18:20.786] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1828200817 to 22
+[27Jun2025 18:18:20.786] [Server thread/DEBUG] [pointblank/]: 786 - obtained hit result in 0ms
+[27Jun2025 18:18:20.786] [Server thread/DEBUG] [pointblank/]: 786 obtained hit results
+[27Jun2025 18:18:20.786] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@423dc158
+[27Jun2025 18:18:20.790] [Server thread/DEBUG] [pointblank/]: ServerPlayer['SD53'/1352, l='ServerLevel[feliz]', x=-17.58, y=101.00, z=318.33] sends hit scan notification to ServerPlayer['SD53'/1352, l='ServerLevel[feliz]', x=-17.58, y=101.00, z=318.33]
+[27Jun2025 18:18:23.564] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1773833445 to 12
+[27Jun2025 18:19:01.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Axelhg_18) moved wrongly! 0.2983136929003649
+[27Jun2025 18:20:29.010] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1258, y=25, z=1275} BlockPos{x=1258, y=22, z=1276}
+[27Jun2025 18:20:30.012] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1258, y=25, z=1275} BlockPos{x=1256, y=25, z=1273}
+[27Jun2025 18:21:23.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[27Jun2025 18:21:23.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[27Jun2025 18:26:23.934] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[27Jun2025 18:26:23.949] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
